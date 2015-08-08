@@ -1,0 +1,96 @@
+#include <iostream>
+#include <string>
+#include <cstring>
+#include <cstdlib>
+#include <algorithm>
+#include <cstdio>
+
+using namespace std;
+
+#define LEN 18
+#define INF 1<<30
+
+/*
+C[mask][last] -> Cost of typing a subset of the characters from the message, and the position of the last character we typed
+
+Ex:
+s="ALMA"
+
+C[1011b][1] -> Cost of typing "ALA", if the last character we typed was 'L'
+*/
+int C[1 << LEN][LEN];
+string s;
+int n;
+
+int diff(int a, int b)
+{
+	int ans = abs(a - b);
+	return min(ans, 'Z' - 'A' - ans + 1);
+}
+
+int calc(int mask, int last)
+{
+	if (mask == 0)return 0;
+	if (C[mask][last])
+	{
+		//cout<<mask<<","<<last<<"="<<C[mask][last]<<endl;
+		return C[mask][last];
+	}
+	printf("mask=%d last=%d\n", mask, last);
+	C[mask][last] = INF;
+
+	//Position of 'last' in the current message
+	int pos = 0;
+	for (int i = 0; i <= last; i++)
+	{
+		if (mask&(1 << i))pos++;
+	}
+
+	for (int i = 0, j = 0; i<n; i++)
+	{
+		//Try every possible last typed
+		if (mask&(1 << i))
+		{
+			j++;
+			if (j == pos)continue;
+			//Place the cursor
+			int cur = j>pos ? j - pos : pos - j - 1;
+			//Rotate the ring
+			int rng = diff(s[i], s[last]);
+			C[mask][last] = min(C[mask][last], 1 + cur + rng + calc(mask ^ (1 << last), i));
+		}
+	}
+
+	//cout<<mask<<","<<last<<"="<<C[mask][last]<<endl;
+	return C[mask][last];
+}
+
+int main()
+{
+	while (1)
+	{
+		cin >> s;
+		if (s == "0")break;
+		n = s.length();
+		memset(C, 0, (1 << LEN)*LEN*sizeof(int));
+
+		int all = 0;
+		for (int i = 0; i<n; i++)
+		{
+			//The cost of typing a single char is rotating the ring from 'A' to the char we want plus the TYPE operation
+			C[1 << i][i] = diff('A', s[i]) + 1;
+			all |= 1 << i;
+		}
+
+		int ans = INF;
+		for (int i = 0; i<n; i++)
+		{
+			//Cost of typing the message if we finish with the i-th char
+			ans = min(ans, calc(all, i));
+		}
+
+		cout << ans << endl;
+	}
+
+	return 0;
+}
