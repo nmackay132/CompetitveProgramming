@@ -88,5 +88,12 @@ int main() {
 	Node* nodek;
 	head->findKthToLast(nodek, 3);
 	printf("Kth node=%d\n", nodek->data);
+
+	Node* num1 = new Node(6);
+	num1->appendToTail(new Node(1));
+	num1->appendToTail(new Node(7));
+	Node* num2 = new Node(5);
+	num1->appendToTail(new Node(9));
+	num1->appendToTail(new Node(2));
 	return 0;
 }
