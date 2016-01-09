@@ -2,7 +2,7 @@ const int UNVISITED = -1;
 vi dfs_num, dfs_low, S, visited;
 
 void tarjanSSC(int u) {
-	dfs_low[u] = dfs_num[u] = dfsNumberCounter++;  //dfs_low[u] <= dfs_num[u]
+	dfs_low[u] = dfs_num[u] = dfsNumCounter++;  //dfs_low[u] <= dfs_num[u]
 	S.push_back(u);		//  stores u in a vector based on order of visitation
 	visited[u] = 1;
 	for (int j = 0; j < (int) AdjList[u].size(); j++) {
@@ -27,7 +27,7 @@ void tarjanSSC(int u) {
 
 // inside int main()
 dfs_num.assign(V, UNVISITED); dfs_low.assign(V, 0); visited.assign(V, 0);
-dfsNumberCounter = numSCC = 0;
+dfsNumCounter = numSCC = 0;
 for (int i = 0; i < V; i++) {
 	if (dfs_num[i] == UNVISITED)
 		tarjanSSC(i);

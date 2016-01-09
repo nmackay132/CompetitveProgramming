@@ -1,5 +1,8 @@
 /*
 
+
+Problem Type:
+
 */
 #include <cstdio>
 #include <stdlib.h>
@@ -21,14 +24,15 @@ const int  MIN_INT = std::numeric_limits<int>::min();
 const int INF = 1000000000;
 const int  NEG_INF = -1000000000;
 
+#define mp make_pair
 #define sc scanf
 #define pf printf
 #define MAX(a,b)(a>b?a:b)
 #define MIN(a,b)(a<b?a:b)
 #define MEM(arr,val)memset(arr,val, sizeof arr)
 #define REP(n)int decrement = n;while(decrement--)
-#define PI acos(0)*2.0
-#define EPS 1.0e-9
+#define PI (acos(0)*2.0)
+#define EPS (1.0e-9)
 #define are_equal(a,b)fabs(a-b)<EPS
 #define LS(b)(b& (-b)) // Least significant bit
 #define DEG_to_RAD(a)((a*PI)/180.0) // convert to radians

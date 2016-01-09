@@ -225,6 +225,171 @@
     <ClCompile Include="CrackingTheCodingInterview\Ch2LinkedList\Node.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2012\LTongues\LTongues.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2012\BMagicMultiple\BMagicMultiple.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2012\ERingAndRunes\ERingAndRunes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R316D2\A\A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R316D2\B\B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R316D2\C\C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R315D2\A\A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R315D2\B\B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R315D2\C\C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R312D2\A\A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R312D2\B\B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R312D2\C\C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2012\FRitualCircle\FRitualCircle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2012\HSeatingChart\HSeatingChart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2012\JTempleBuild\JTempleBuild.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2012\DPartition\DPartition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2012\CPaintedCube\CPaintedCube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R317D2\A\A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R317D2\B\B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R317D2\C\C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R317D2\D\D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2013\AAssignments\AAssignments.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2013\FederationFavorites\FederationFavorites.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2013\GenerationOfTribbles\GenerationOfTribbles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2013\Languages\Languages.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2013\EnterprisingEscape\EnterprisingEscape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\PacificNW2013\BonesBattery\BonesBattery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\DP\CoinChange\LetMeCountTheWays\LetMeCountTheWays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R318D2\A\A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R318D2\B\B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R318D2\C\C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R314D2\A\A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R314D2\B\B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R314D2\C\C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R314D2\D\D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\DP\Knapsack\SuperSale\SuperSale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\DP\Knapsack\SumOfDifferentPrimes\SumOfDifferentPrimes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\BackTracking\SettlersOfCatan\SettlersOfCatan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\SSSP\FromDuskTillDawn\FromDuskTillDawn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R311D2\A\A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R311D2\B\B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R311D2\C\C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\R311D2\D\D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\BackTracking\Transportation\Transportation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\8QueensChessProblem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\FloodFill\OilDeposit\OilDeposit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\ACMArabella2015\HCapitalCity\HCapitalCity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\NorthAmericanQualifier2014\HumanCannonBall\HumanCannonBall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\NorthAmericanRegWarmUp\CSymetricOrder\CSymetricOrder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\NorthAmericanRegWarmUp\FInkBlots\FInkBlots.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\NorthAmericanQualifier2014\Units\Units.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\NorthAmericanQualifier2015\H\H.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\NorthAmericanQualifier2015\K\K.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\NorthAmericanQualifier2015\J\J.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\Southeast2014\HShuffles\HShuffles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Template.h">
@@ -295,6 +460,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="CompProgBook.aps" />
+    <None Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\a.exe" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="WhatIsTheMedian\input1.txt" />
@@ -1386,5 +1552,491 @@
     <Text Include="ACMRegionals\Southeast2011\Hexagrams\output3.txt" />
     <Text Include="ACMRegionals\Southeast2011\Hexagrams\output4.txt" />
     <Text Include="ACMRegionals\Southeast2011\Hexagrams\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\LTongues\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\LTongues\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\LTongues\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\LTongues\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\LTongues\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\LTongues\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\LTongues\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\LTongues\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\LTongues\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\BMagicMultiple\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\BMagicMultiple\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\BMagicMultiple\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\BMagicMultiple\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\BMagicMultiple\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\BMagicMultiple\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\BMagicMultiple\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\BMagicMultiple\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\BMagicMultiple\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\ERingAndRunes\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\ERingAndRunes\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\ERingAndRunes\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\ERingAndRunes\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\ERingAndRunes\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\ERingAndRunes\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\ERingAndRunes\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\ERingAndRunes\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\ERingAndRunes\res.txt" />
+    <Text Include="Codeforces\R316D2\A\input1.txt" />
+    <Text Include="Codeforces\R316D2\A\input2.txt" />
+    <Text Include="Codeforces\R316D2\A\input3.txt" />
+    <Text Include="Codeforces\R316D2\A\input4.txt" />
+    <Text Include="Codeforces\R316D2\A\output1.txt" />
+    <Text Include="Codeforces\R316D2\A\output2.txt" />
+    <Text Include="Codeforces\R316D2\A\output3.txt" />
+    <Text Include="Codeforces\R316D2\A\output4.txt" />
+    <Text Include="Codeforces\R316D2\A\res.txt" />
+    <Text Include="Codeforces\R316D2\B\input1.txt" />
+    <Text Include="Codeforces\R316D2\B\input2.txt" />
+    <Text Include="Codeforces\R316D2\B\input3.txt" />
+    <Text Include="Codeforces\R316D2\B\input4.txt" />
+    <Text Include="Codeforces\R316D2\B\output1.txt" />
+    <Text Include="Codeforces\R316D2\B\output2.txt" />
+    <Text Include="Codeforces\R316D2\B\output3.txt" />
+    <Text Include="Codeforces\R316D2\B\output4.txt" />
+    <Text Include="Codeforces\R316D2\B\res.txt" />
+    <Text Include="Codeforces\R316D2\C\input1.txt" />
+    <Text Include="Codeforces\R316D2\C\input2.txt" />
+    <Text Include="Codeforces\R316D2\C\input3.txt" />
+    <Text Include="Codeforces\R316D2\C\input4.txt" />
+    <Text Include="Codeforces\R316D2\C\output1.txt" />
+    <Text Include="Codeforces\R316D2\C\output2.txt" />
+    <Text Include="Codeforces\R316D2\C\output3.txt" />
+    <Text Include="Codeforces\R316D2\C\output4.txt" />
+    <Text Include="Codeforces\R316D2\C\res.txt" />
+    <Text Include="Codeforces\R315D2\A\input1.txt" />
+    <Text Include="Codeforces\R315D2\A\input2.txt" />
+    <Text Include="Codeforces\R315D2\A\input3.txt" />
+    <Text Include="Codeforces\R315D2\A\input4.txt" />
+    <Text Include="Codeforces\R315D2\A\output1.txt" />
+    <Text Include="Codeforces\R315D2\A\output2.txt" />
+    <Text Include="Codeforces\R315D2\A\output3.txt" />
+    <Text Include="Codeforces\R315D2\A\output4.txt" />
+    <Text Include="Codeforces\R315D2\A\res.txt" />
+    <Text Include="Codeforces\R315D2\B\input1.txt" />
+    <Text Include="Codeforces\R315D2\B\input2.txt" />
+    <Text Include="Codeforces\R315D2\B\input3.txt" />
+    <Text Include="Codeforces\R315D2\B\input4.txt" />
+    <Text Include="Codeforces\R315D2\B\output1.txt" />
+    <Text Include="Codeforces\R315D2\B\output2.txt" />
+    <Text Include="Codeforces\R315D2\B\output3.txt" />
+    <Text Include="Codeforces\R315D2\B\output4.txt" />
+    <Text Include="Codeforces\R315D2\B\res.txt" />
+    <Text Include="Codeforces\R315D2\C\input1.txt" />
+    <Text Include="Codeforces\R315D2\C\input2.txt" />
+    <Text Include="Codeforces\R315D2\C\input3.txt" />
+    <Text Include="Codeforces\R315D2\C\input4.txt" />
+    <Text Include="Codeforces\R315D2\C\output1.txt" />
+    <Text Include="Codeforces\R315D2\C\output2.txt" />
+    <Text Include="Codeforces\R315D2\C\output3.txt" />
+    <Text Include="Codeforces\R315D2\C\output4.txt" />
+    <Text Include="Codeforces\R315D2\C\res.txt" />
+    <Text Include="Codeforces\R312D2\A\input1.txt" />
+    <Text Include="Codeforces\R312D2\A\input2.txt" />
+    <Text Include="Codeforces\R312D2\A\input3.txt" />
+    <Text Include="Codeforces\R312D2\A\input4.txt" />
+    <Text Include="Codeforces\R312D2\A\output1.txt" />
+    <Text Include="Codeforces\R312D2\A\output2.txt" />
+    <Text Include="Codeforces\R312D2\A\output3.txt" />
+    <Text Include="Codeforces\R312D2\A\output4.txt" />
+    <Text Include="Codeforces\R312D2\A\res.txt" />
+    <Text Include="Codeforces\R312D2\B\input1.txt" />
+    <Text Include="Codeforces\R312D2\B\input2.txt" />
+    <Text Include="Codeforces\R312D2\B\input3.txt" />
+    <Text Include="Codeforces\R312D2\B\input4.txt" />
+    <Text Include="Codeforces\R312D2\B\output1.txt" />
+    <Text Include="Codeforces\R312D2\B\output2.txt" />
+    <Text Include="Codeforces\R312D2\B\output3.txt" />
+    <Text Include="Codeforces\R312D2\B\output4.txt" />
+    <Text Include="Codeforces\R312D2\B\res.txt" />
+    <Text Include="Codeforces\R312D2\C\input1.txt" />
+    <Text Include="Codeforces\R312D2\C\input2.txt" />
+    <Text Include="Codeforces\R312D2\C\input3.txt" />
+    <Text Include="Codeforces\R312D2\C\input4.txt" />
+    <Text Include="Codeforces\R312D2\C\output1.txt" />
+    <Text Include="Codeforces\R312D2\C\output2.txt" />
+    <Text Include="Codeforces\R312D2\C\output3.txt" />
+    <Text Include="Codeforces\R312D2\C\output4.txt" />
+    <Text Include="Codeforces\R312D2\C\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\FRitualCircle\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\FRitualCircle\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\FRitualCircle\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\FRitualCircle\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\FRitualCircle\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\FRitualCircle\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\FRitualCircle\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\FRitualCircle\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\FRitualCircle\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\HSeatingChart\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\HSeatingChart\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\HSeatingChart\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\HSeatingChart\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\HSeatingChart\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\HSeatingChart\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\HSeatingChart\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\HSeatingChart\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\HSeatingChart\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\JTempleBuild\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\JTempleBuild\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\JTempleBuild\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\JTempleBuild\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\JTempleBuild\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\JTempleBuild\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\JTempleBuild\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\JTempleBuild\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\JTempleBuild\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\DPartition\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\DPartition\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\DPartition\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\DPartition\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\DPartition\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\DPartition\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\DPartition\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\DPartition\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\DPartition\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\CPaintedCube\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\CPaintedCube\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\CPaintedCube\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\CPaintedCube\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\CPaintedCube\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\CPaintedCube\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\CPaintedCube\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\CPaintedCube\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2012\CPaintedCube\res.txt" />
+    <Text Include="Codeforces\R317D2\A\input1.txt" />
+    <Text Include="Codeforces\R317D2\A\input2.txt" />
+    <Text Include="Codeforces\R317D2\A\input3.txt" />
+    <Text Include="Codeforces\R317D2\A\input4.txt" />
+    <Text Include="Codeforces\R317D2\A\output1.txt" />
+    <Text Include="Codeforces\R317D2\A\output2.txt" />
+    <Text Include="Codeforces\R317D2\A\output3.txt" />
+    <Text Include="Codeforces\R317D2\A\output4.txt" />
+    <Text Include="Codeforces\R317D2\A\res.txt" />
+    <Text Include="Codeforces\R317D2\B\input1.txt" />
+    <Text Include="Codeforces\R317D2\B\input2.txt" />
+    <Text Include="Codeforces\R317D2\B\input3.txt" />
+    <Text Include="Codeforces\R317D2\B\input4.txt" />
+    <Text Include="Codeforces\R317D2\B\output1.txt" />
+    <Text Include="Codeforces\R317D2\B\output2.txt" />
+    <Text Include="Codeforces\R317D2\B\output3.txt" />
+    <Text Include="Codeforces\R317D2\B\output4.txt" />
+    <Text Include="Codeforces\R317D2\B\res.txt" />
+    <Text Include="Codeforces\R317D2\C\input1.txt" />
+    <Text Include="Codeforces\R317D2\C\input2.txt" />
+    <Text Include="Codeforces\R317D2\C\input3.txt" />
+    <Text Include="Codeforces\R317D2\C\input4.txt" />
+    <Text Include="Codeforces\R317D2\C\output1.txt" />
+    <Text Include="Codeforces\R317D2\C\output2.txt" />
+    <Text Include="Codeforces\R317D2\C\output3.txt" />
+    <Text Include="Codeforces\R317D2\C\output4.txt" />
+    <Text Include="Codeforces\R317D2\C\res.txt" />
+    <Text Include="Codeforces\R317D2\D\input1.txt" />
+    <Text Include="Codeforces\R317D2\D\input2.txt" />
+    <Text Include="Codeforces\R317D2\D\input3.txt" />
+    <Text Include="Codeforces\R317D2\D\input4.txt" />
+    <Text Include="Codeforces\R317D2\D\output1.txt" />
+    <Text Include="Codeforces\R317D2\D\output2.txt" />
+    <Text Include="Codeforces\R317D2\D\output3.txt" />
+    <Text Include="Codeforces\R317D2\D\output4.txt" />
+    <Text Include="Codeforces\R317D2\D\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\AAssignments\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\AAssignments\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\AAssignments\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\AAssignments\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\AAssignments\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\AAssignments\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\AAssignments\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\AAssignments\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\AAssignments\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\FederationFavorites\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\FederationFavorites\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\FederationFavorites\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\FederationFavorites\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\FederationFavorites\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\FederationFavorites\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\FederationFavorites\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\FederationFavorites\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\FederationFavorites\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\GenerationOfTribbles\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\GenerationOfTribbles\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\GenerationOfTribbles\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\GenerationOfTribbles\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\GenerationOfTribbles\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\GenerationOfTribbles\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\GenerationOfTribbles\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\GenerationOfTribbles\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\GenerationOfTribbles\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\Languages\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\Languages\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\Languages\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\Languages\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\Languages\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\Languages\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\Languages\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\Languages\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\Languages\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\EnterprisingEscape\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\EnterprisingEscape\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\EnterprisingEscape\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\EnterprisingEscape\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\EnterprisingEscape\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\EnterprisingEscape\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\EnterprisingEscape\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\EnterprisingEscape\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\EnterprisingEscape\res.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\BonesBattery\input1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\BonesBattery\input2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\BonesBattery\input3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\BonesBattery\input4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\BonesBattery\output1.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\BonesBattery\output2.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\BonesBattery\output3.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\BonesBattery\output4.txt" />
+    <Text Include="ACMRegionals\PacificNW2013\BonesBattery\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\LetMeCountTheWays\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\LetMeCountTheWays\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\LetMeCountTheWays\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\LetMeCountTheWays\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\LetMeCountTheWays\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\LetMeCountTheWays\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\LetMeCountTheWays\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\LetMeCountTheWays\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\LetMeCountTheWays\res.txt" />
+    <Text Include="Codeforces\R318D2\A\input1.txt" />
+    <Text Include="Codeforces\R318D2\A\input2.txt" />
+    <Text Include="Codeforces\R318D2\A\input3.txt" />
+    <Text Include="Codeforces\R318D2\A\input4.txt" />
+    <Text Include="Codeforces\R318D2\A\output1.txt" />
+    <Text Include="Codeforces\R318D2\A\output2.txt" />
+    <Text Include="Codeforces\R318D2\A\output3.txt" />
+    <Text Include="Codeforces\R318D2\A\output4.txt" />
+    <Text Include="Codeforces\R318D2\A\res.txt" />
+    <Text Include="Codeforces\R318D2\B\input1.txt" />
+    <Text Include="Codeforces\R318D2\B\input2.txt" />
+    <Text Include="Codeforces\R318D2\B\input3.txt" />
+    <Text Include="Codeforces\R318D2\B\input4.txt" />
+    <Text Include="Codeforces\R318D2\B\output1.txt" />
+    <Text Include="Codeforces\R318D2\B\output2.txt" />
+    <Text Include="Codeforces\R318D2\B\output3.txt" />
+    <Text Include="Codeforces\R318D2\B\output4.txt" />
+    <Text Include="Codeforces\R318D2\B\res.txt" />
+    <Text Include="Codeforces\R318D2\C\input1.txt" />
+    <Text Include="Codeforces\R318D2\C\input2.txt" />
+    <Text Include="Codeforces\R318D2\C\input3.txt" />
+    <Text Include="Codeforces\R318D2\C\input4.txt" />
+    <Text Include="Codeforces\R318D2\C\output1.txt" />
+    <Text Include="Codeforces\R318D2\C\output2.txt" />
+    <Text Include="Codeforces\R318D2\C\output3.txt" />
+    <Text Include="Codeforces\R318D2\C\output4.txt" />
+    <Text Include="Codeforces\R318D2\C\res.txt" />
+    <Text Include="Codeforces\R314D2\A\input1.txt" />
+    <Text Include="Codeforces\R314D2\A\input2.txt" />
+    <Text Include="Codeforces\R314D2\A\input3.txt" />
+    <Text Include="Codeforces\R314D2\A\input4.txt" />
+    <Text Include="Codeforces\R314D2\A\output1.txt" />
+    <Text Include="Codeforces\R314D2\A\output2.txt" />
+    <Text Include="Codeforces\R314D2\A\output3.txt" />
+    <Text Include="Codeforces\R314D2\A\output4.txt" />
+    <Text Include="Codeforces\R314D2\A\res.txt" />
+    <Text Include="Codeforces\R314D2\B\input1.txt" />
+    <Text Include="Codeforces\R314D2\B\input2.txt" />
+    <Text Include="Codeforces\R314D2\B\input3.txt" />
+    <Text Include="Codeforces\R314D2\B\input4.txt" />
+    <Text Include="Codeforces\R314D2\B\output1.txt" />
+    <Text Include="Codeforces\R314D2\B\output2.txt" />
+    <Text Include="Codeforces\R314D2\B\output3.txt" />
+    <Text Include="Codeforces\R314D2\B\output4.txt" />
+    <Text Include="Codeforces\R314D2\B\res.txt" />
+    <Text Include="Codeforces\R314D2\C\input1.txt" />
+    <Text Include="Codeforces\R314D2\C\input2.txt" />
+    <Text Include="Codeforces\R314D2\C\input3.txt" />
+    <Text Include="Codeforces\R314D2\C\input4.txt" />
+    <Text Include="Codeforces\R314D2\C\output1.txt" />
+    <Text Include="Codeforces\R314D2\C\output2.txt" />
+    <Text Include="Codeforces\R314D2\C\output3.txt" />
+    <Text Include="Codeforces\R314D2\C\output4.txt" />
+    <Text Include="Codeforces\R314D2\C\res.txt" />
+    <Text Include="Codeforces\R314D2\D\input1.txt" />
+    <Text Include="Codeforces\R314D2\D\input2.txt" />
+    <Text Include="Codeforces\R314D2\D\input3.txt" />
+    <Text Include="Codeforces\R314D2\D\input4.txt" />
+    <Text Include="Codeforces\R314D2\D\output1.txt" />
+    <Text Include="Codeforces\R314D2\D\output2.txt" />
+    <Text Include="Codeforces\R314D2\D\output3.txt" />
+    <Text Include="Codeforces\R314D2\D\output4.txt" />
+    <Text Include="Codeforces\R314D2\D\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SumOfDifferentPrimes\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SumOfDifferentPrimes\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SumOfDifferentPrimes\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SumOfDifferentPrimes\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SumOfDifferentPrimes\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SumOfDifferentPrimes\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SumOfDifferentPrimes\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SumOfDifferentPrimes\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SumOfDifferentPrimes\res.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\SettlersOfCatan\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\SettlersOfCatan\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\SettlersOfCatan\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\SettlersOfCatan\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\SettlersOfCatan\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\SettlersOfCatan\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\SettlersOfCatan\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\SettlersOfCatan\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\SettlersOfCatan\res.txt" />
+    <Text Include="Graph\SSSP\FromDuskTillDawn\input1.txt" />
+    <Text Include="Graph\SSSP\FromDuskTillDawn\input2.txt" />
+    <Text Include="Graph\SSSP\FromDuskTillDawn\input3.txt" />
+    <Text Include="Graph\SSSP\FromDuskTillDawn\input4.txt" />
+    <Text Include="Graph\SSSP\FromDuskTillDawn\output1.txt" />
+    <Text Include="Graph\SSSP\FromDuskTillDawn\output2.txt" />
+    <Text Include="Graph\SSSP\FromDuskTillDawn\output3.txt" />
+    <Text Include="Graph\SSSP\FromDuskTillDawn\output4.txt" />
+    <Text Include="Graph\SSSP\FromDuskTillDawn\res.txt" />
+    <Text Include="Codeforces\R311D2\A\input1.txt" />
+    <Text Include="Codeforces\R311D2\A\input2.txt" />
+    <Text Include="Codeforces\R311D2\A\input3.txt" />
+    <Text Include="Codeforces\R311D2\A\input4.txt" />
+    <Text Include="Codeforces\R311D2\A\output1.txt" />
+    <Text Include="Codeforces\R311D2\A\output2.txt" />
+    <Text Include="Codeforces\R311D2\A\output3.txt" />
+    <Text Include="Codeforces\R311D2\A\output4.txt" />
+    <Text Include="Codeforces\R311D2\A\res.txt" />
+    <Text Include="Codeforces\R311D2\B\input1.txt" />
+    <Text Include="Codeforces\R311D2\B\input2.txt" />
+    <Text Include="Codeforces\R311D2\B\input3.txt" />
+    <Text Include="Codeforces\R311D2\B\input4.txt" />
+    <Text Include="Codeforces\R311D2\B\output1.txt" />
+    <Text Include="Codeforces\R311D2\B\output2.txt" />
+    <Text Include="Codeforces\R311D2\B\output3.txt" />
+    <Text Include="Codeforces\R311D2\B\output4.txt" />
+    <Text Include="Codeforces\R311D2\B\res.txt" />
+    <Text Include="Codeforces\R311D2\C\input1.txt" />
+    <Text Include="Codeforces\R311D2\C\input2.txt" />
+    <Text Include="Codeforces\R311D2\C\input3.txt" />
+    <Text Include="Codeforces\R311D2\C\input4.txt" />
+    <Text Include="Codeforces\R311D2\C\output1.txt" />
+    <Text Include="Codeforces\R311D2\C\output2.txt" />
+    <Text Include="Codeforces\R311D2\C\output3.txt" />
+    <Text Include="Codeforces\R311D2\C\output4.txt" />
+    <Text Include="Codeforces\R311D2\C\res.txt" />
+    <Text Include="Codeforces\R311D2\D\input1.txt" />
+    <Text Include="Codeforces\R311D2\D\input2.txt" />
+    <Text Include="Codeforces\R311D2\D\input3.txt" />
+    <Text Include="Codeforces\R311D2\D\input4.txt" />
+    <Text Include="Codeforces\R311D2\D\output1.txt" />
+    <Text Include="Codeforces\R311D2\D\output2.txt" />
+    <Text Include="Codeforces\R311D2\D\output3.txt" />
+    <Text Include="Codeforces\R311D2\D\output4.txt" />
+    <Text Include="Codeforces\R311D2\D\res.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\Transportation\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\Transportation\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\Transportation\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\Transportation\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\Transportation\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\Transportation\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\Transportation\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\Transportation\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\Transportation\res.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\BackTracking\8QueensChessProblem\res.txt" />
+    <Text Include="Graph\FloodFill\OilDeposit\input1.txt" />
+    <Text Include="Graph\FloodFill\OilDeposit\input2.txt" />
+    <Text Include="Graph\FloodFill\OilDeposit\input3.txt" />
+    <Text Include="Graph\FloodFill\OilDeposit\input4.txt" />
+    <Text Include="Graph\FloodFill\OilDeposit\output1.txt" />
+    <Text Include="Graph\FloodFill\OilDeposit\output2.txt" />
+    <Text Include="Graph\FloodFill\OilDeposit\output3.txt" />
+    <Text Include="Graph\FloodFill\OilDeposit\output4.txt" />
+    <Text Include="Graph\FloodFill\OilDeposit\res.txt" />
+    <Text Include="Codeforces\ACMArabella2015\HCapitalCity\input1.txt" />
+    <Text Include="Codeforces\ACMArabella2015\HCapitalCity\input2.txt" />
+    <Text Include="Codeforces\ACMArabella2015\HCapitalCity\input3.txt" />
+    <Text Include="Codeforces\ACMArabella2015\HCapitalCity\input4.txt" />
+    <Text Include="Codeforces\ACMArabella2015\HCapitalCity\output1.txt" />
+    <Text Include="Codeforces\ACMArabella2015\HCapitalCity\output2.txt" />
+    <Text Include="Codeforces\ACMArabella2015\HCapitalCity\output3.txt" />
+    <Text Include="Codeforces\ACMArabella2015\HCapitalCity\output4.txt" />
+    <Text Include="Codeforces\ACMArabella2015\HCapitalCity\res.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\HumanCannonBall\input1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\HumanCannonBall\input2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\HumanCannonBall\input3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\HumanCannonBall\input4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\HumanCannonBall\output1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\HumanCannonBall\output2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\HumanCannonBall\output3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\HumanCannonBall\output4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\HumanCannonBall\res.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\CSymetricOrder\input1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\CSymetricOrder\input2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\CSymetricOrder\input3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\CSymetricOrder\input4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\CSymetricOrder\output1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\CSymetricOrder\output2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\CSymetricOrder\output3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\CSymetricOrder\output4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\CSymetricOrder\res.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\FInkBlots\input1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\FInkBlots\input2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\FInkBlots\input3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\FInkBlots\input4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\FInkBlots\output1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\FInkBlots\output2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\FInkBlots\output3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\FInkBlots\output4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanRegWarmUp\FInkBlots\res.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\Units\input1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\Units\input2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\Units\input3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\Units\input4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\Units\output1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\Units\output2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\Units\output3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\Units\output4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2014\Units\res.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\H\input1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\H\input2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\H\input3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\H\input4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\H\output1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\H\output2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\H\output3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\H\output4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\H\res.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\K\input1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\K\input2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\K\input3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\K\input4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\K\output1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\K\output2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\K\output3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\K\output4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\K\res.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\J\input1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\J\input2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\J\input3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\J\input4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\J\output1.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\J\output2.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\J\output3.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\J\output4.txt" />
+    <Text Include="ACMRegionals\NorthAmericanQualifier2015\J\res.txt" />
+    <Text Include="ACMRegionals\Southeast2014\HShuffles\input1.txt" />
+    <Text Include="ACMRegionals\Southeast2014\HShuffles\input2.txt" />
+    <Text Include="ACMRegionals\Southeast2014\HShuffles\input3.txt" />
+    <Text Include="ACMRegionals\Southeast2014\HShuffles\input4.txt" />
+    <Text Include="ACMRegionals\Southeast2014\HShuffles\output1.txt" />
+    <Text Include="ACMRegionals\Southeast2014\HShuffles\output2.txt" />
+    <Text Include="ACMRegionals\Southeast2014\HShuffles\output3.txt" />
+    <Text Include="ACMRegionals\Southeast2014\HShuffles\output4.txt" />
+    <Text Include="ACMRegionals\Southeast2014\HShuffles\res.txt" />
   </ItemGroup>
 </Project>

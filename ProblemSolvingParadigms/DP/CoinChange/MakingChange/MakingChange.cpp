@@ -1,4 +1,5 @@
 /*
+*****Solved******
 UVa 166
 
 Problem Type:
@@ -47,23 +48,12 @@ int lcm(int a, int b){ return a*(b / gcd(a, b)); }
 
 
 //----------------------------------------------------------------------//
-
+const int MAXVAL = 850;
 vi coins;
-int dp[125][710];
-int dp2[125][710];
-int memo[125][710];
+int dp[MAXVAL];
 int val[] = { 5, 10, 20, 50, 100, 200 };
 
-//int comp(int pos, int m) {
-//	if (pos >= coins.size()) return INF;
-//	if (m < 0) return INF;
-//	if (m == 0) return 0;
-//	if (memo[pos][m] != -1) return memo[pos][m];
-//	int ans = INF;
-//	ans = MIN(ans, comp(pos, ))
-//}
-
-int main(){
+int main() {
 	int a;
 	while (true) {
 		coins.clear();
@@ -79,41 +69,48 @@ int main(){
 
 		double g;
 		cin >> g;
-		int goal = (int) (g * 100);
+		int goal = (int)(g * 100 + 0.5);
 
-		for (int i = 0; i < coins.size(); i++) {
-			for (int j = 0; j <= 500; j++) {
-				dp[i][j] = INF;
-			}
+		for (int i = 0; i < MAXVAL; i++) {
+			dp[i] = INF;
 		}
+		dp[0] = 0;
 		for (int i = 0; i < coins.size(); i++) {
-			dp[i][0] = 0;
-			dp[i][coins[i]] = 1;	
-		}
-		for (int i = 1; i < coins.size(); i++) {
-			for (int m = 0; m <= 500; m++) {
-				bool changed = false;
-				if (m >= coins[i] && dp[i][m] > dp[i - 1][m - coins[i]] ){
-					dp[i][m] = MIN(dp[i - 1][m + coins[i]] + 1, dp[i - 1][m - coins[i]] + 1);
-					changed = true;
-				}
-				else if (dp[i][m] > dp[i - 1][m + coins[i]]) {
-					dp[i][m] = dp[i - 1][m + coins[i]] + 1;
-					changed = true;
-				}
-				if(!changed) {
-					dp[i][m] = dp[i - 1][m];
+			for (int m = MAXVAL; m >= coins[i]; m -= 5) {
+				if (dp[m] > dp[m - coins[i]] + 1) {
+					dp[m] = dp[m - coins[i]] + 1;
 				}
 			}
 		}
 
-		int min = INF;
-		for (int i = 0; i < coins.size(); i++) {
-			min = MIN(min, dp[i][goal]);
+		//for (int i = 0; i < MAXVAL; i+=5) {
+		//	if (i % 100 == 0) printf("\ni=%d\n", i);
+		//	printf("%11d ", dp[i]);
+		//}
+		//printf("\n");
+
+		int min = dp[goal];
+		for (int i = goal; i < MAXVAL; i+=5) {
+			int gap = i-goal;
+			int j = 5;
+			int count = 0;
+			while (gap > 0) {
+				if (gap >= val[j]) {
+					count++;
+					gap -= val[j];
+				}
+				else {
+					j--;
+				}
+			}
+			if (min > dp[i] + count) {
+				min = dp[i] + count;
+			}
 		}
 
-		printf("%3d\n", min);
+			printf("%3d\n", min);
 	}
 
 	return 0;
-}	
+}
+

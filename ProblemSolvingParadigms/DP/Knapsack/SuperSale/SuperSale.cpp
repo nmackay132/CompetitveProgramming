@@ -51,10 +51,9 @@ int lcm(int a, int b){ return a*(b / gcd(a, b)); }
 
 int N, G;
 int P[1010], W[1010];
-int dp[1010][35]; //dp[weight]
+int dp[40]; //dp[weight]
 
-
-int main(){
+int main() {
 	int T; scanf("%d", &T);
 	while (T--) {
 		scanf("%d", &N);
@@ -65,12 +64,11 @@ int main(){
 		MEM(dp, 0);
 
 		for (int i = 1; i <= N; i++) {
-			for (int w = 1; w <= 30; w++) {
-				if (w >= W[i]) {
-					dp[i][w] = MAX(dp[i-1][w], dp[i-1][w - W[i]] + P[i]);
-				}
-				else {
-					dp[i][w] = dp[i - 1][w];
+			for (int w = 35; w >= 0; w--) {
+				if (w > W[i]) {
+					if (dp[w] < dp[w - W[i]] + P[i]) {
+						dp[w] = dp[w - W[i]] + P[i];
+					}
 				}
 			}
 		}
@@ -79,11 +77,50 @@ int main(){
 		int sum = 0;
 		for (int i = 0; i < G; i++) {
 			int w; scanf("%d", &w);
-			sum += dp[N][w];
+			sum += dp[w];
 		}
 
 		pf("%d\n", sum);
 	}
-
 	return 0;
-}	
+}
+
+
+//int N, G;
+//int P[1010], W[1010];
+//int dp[1010][35]; //dp[weight]
+//
+//
+//int main(){
+//	int T; scanf("%d", &T);
+//	while (T--) {
+//		scanf("%d", &N);
+//		for (int i = 1; i <= N; i++) {
+//			scanf("%d %d", &P[i], &W[i]);
+//		}
+//
+//		MEM(dp, 0);
+//
+//		for (int i = 1; i <= N; i++) {
+//			for (int w = 1; w <= 30; w++) {
+//				if (w >= W[i]) {
+//					dp[i][w] = MAX(dp[i-1][w], dp[i-1][w - W[i]] + P[i]);
+//				}
+//				else {
+//					dp[i][w] = dp[i - 1][w];
+//				}
+//			}
+//		}
+//
+//		scanf("%d", &G);
+//		int sum = 0;
+//		for (int i = 0; i < G; i++) {
+//			int w; scanf("%d", &w);
+//			sum += dp[N][w];
+//		}
+//
+//		pf("%d\n", sum);
+//	}
+//
+//	return 0;
+//}	

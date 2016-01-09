@@ -51,7 +51,7 @@ isdigit(ch)
 isalpha(ch)
 
 
-
+VECTORS
 SORTING
 ***Sort in descending order:
 sort(points.rbegin(), points.rend());
@@ -63,12 +63,24 @@ bool compMethod(ii a, ii b){ //example comparator method
    return a.second < b.second;
 }
 
+v.erase(v.begin() + i); // remove ith index
+
+
+BINARY SEARCH
+sort (v.begin(), v.end());
+vi::iterator low,up;
+low = lower_bound (v.begin(), v.end(), 20); // returns first num <= val
+up  = upper_bound (v.begin(), v.end(), 20); // returns first num > val
+
 
 MAP
 ***Iterating over a map. (see BrightLights for example)
 map<string, int> m
 for (map <string, int> >::iterator it = m.begin(); it != m.end(); ++it){
+	stinrg str = it->first
+	int num = it->second;
 }
+
 
 SUBSTRINGS
 ***Print all substrings of a set
@@ -76,10 +88,10 @@ for (int i = 1; i < (1 << N); ++i) {
   for (int j = 0; j < N; ++j) {
     if(i & (1<<j)){
       printf("%d", S[j]);
+    }
   }
 }
 
-}
 
 DATA TYPE RANGES
 int
@@ -88,4 +100,6 @@ long long
 –9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 (-9.2 *10^18 to 9.2*10^18)
 unsigned long long
 0 to 18,446,744,073,709,551,615 (0 to 1.8*10^19)
+double
+1.7E +/- 308 (15 digits)
 */
