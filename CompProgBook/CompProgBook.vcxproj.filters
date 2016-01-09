@@ -1,0 +1,1390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EventPlanning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HorrorDash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IDCodes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoansomeCarBuyer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Continents.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OrderingTasks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaceTheGuards.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HashMatTheBraveWarrior.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BackToHighSchoolPhysics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OddSum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WakingUpBrain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ATest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TheDecoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TexQuotes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SendingEmail.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Battleships.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InternetBandwith.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimaryArithmetic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseAndAdd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AncientTriangles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LiftHopping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p10370.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MarvelousMazes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EcologicalBinPacking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EcologicalPremium.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Babel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrainSwapping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WhatIsTheMedian\WhatIsTheMedian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleDivision\SimpleDivision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MonkeysInTheEmeiMountain\MonkeysInTheEmeiMountain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MikeAndFun\MikeAndFun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MikeAndFax\MikeAndFax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\ArticulationPointsAndBridges\CriticalLinks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\ArticulationPointsAndBridges\Network.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\MST\DarkRoads.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\MST\Audiophobia2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\MST\Audiophobia.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\StronglyConnectedComponents\CallingCircles\CallingCircles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\DivideAndConquer\SolveIt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\DivideAndConquer\ExactSum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructures\FrequentValues\FrequentValues.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\APSP\PageHopping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\SSSP\WordTransformation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\SSSP\SpreadingTheNews.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\MST\JungleRoads\JungleRoads.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExchangeRates\ExchangeRates.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\DP\CoinChange\ExactChange.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltiCodeJam\A\A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltiCodeJam\B\B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltiCodeJam\C\C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltiCodeJam\D\D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltiCodeJam\E\E.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltiCodeJam\F\F.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltiCodeJam\G\G.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltiCodeJam\H\H.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltiCodeJam\I\I.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UltiCodeJam\ZTest\ZTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\DP\CoinChange\IngenuousCubrency\IngenuousCubrency.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\DP\CoinChange\MakingChange\MakingChange.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemSolvingParadigms\DP\CoinChange\PayThePrice\PayThePrice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PractComp\TaxCalculator\TaxCalculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\NorthwestEuroRegional2006\F\F.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Codeforces\NorthwestEuroRegional2006\F\B\B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\SSSP\MiceAndMaze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\SSSP\NumberMaze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\Southeast2011\Hexagrams\Hexagrams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\Southeast2011\Hexagrams\Test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ACMRegionals\Southeast2011\Hexagrams\Test2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CrackingTheCodingInterview\Ch2LinkedList\Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Template.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Notes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\NotesOnEfficiency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\NumberTheory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Graph Theory\MaxFlow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Geometry\Polygons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Geometry\Geometry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Graph Theory\CycleCheck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Graph Theory\TopologicalSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Graph Theory\BellmanFords.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Graph Theory\ArticulationPointsAndBridges.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Graph Theory\MST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Graph Theory\StronglyConnectedComponents.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\DataStructures\SegmentTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Permutations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Graph Theory\FloydWarshalls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Graph Theory\DFS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Graph Theory\BFS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Permutations2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AANotes\Permutations3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CompProgBook.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CompProgBook.aps" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="WhatIsTheMedian\input1.txt" />
+    <Text Include="WhatIsTheMedian\input2.txt" />
+    <Text Include="WhatIsTheMedian\input3.txt" />
+    <Text Include="WhatIsTheMedian\input4.txt" />
+    <Text Include="WhatIsTheMedian\output1.txt" />
+    <Text Include="WhatIsTheMedian\output2.txt" />
+    <Text Include="WhatIsTheMedian\output3.txt" />
+    <Text Include="WhatIsTheMedian\output4.txt" />
+    <Text Include="WhatIsTheMedian\res.txt" />
+    <Text Include="UglyNumbers\input1.txt" />
+    <Text Include="UglyNumbers\input2.txt" />
+    <Text Include="UglyNumbers\input3.txt" />
+    <Text Include="UglyNumbers\input4.txt" />
+    <Text Include="UglyNumbers\output1.txt" />
+    <Text Include="UglyNumbers\output2.txt" />
+    <Text Include="UglyNumbers\output3.txt" />
+    <Text Include="UglyNumbers\output4.txt" />
+    <Text Include="UglyNumbers\res.txt" />
+    <Text Include="Babel2\res.txt" />
+    <Text Include="Babel2\output4.txt" />
+    <Text Include="Babel2\output3.txt" />
+    <Text Include="Babel2\output2.txt" />
+    <Text Include="Babel2\output1.txt" />
+    <Text Include="Babel2\input4.txt" />
+    <Text Include="Babel2\input3.txt" />
+    <Text Include="Babel2\input2.txt" />
+    <Text Include="Babel2\input1.txt" />
+    <Text Include="SunnyMountains\res.txt" />
+    <Text Include="SunnyMountains\output4.txt" />
+    <Text Include="SunnyMountains\output3.txt" />
+    <Text Include="SunnyMountains\output2.txt" />
+    <Text Include="SunnyMountains\output1.txt" />
+    <Text Include="SunnyMountains\input4.txt" />
+    <Text Include="SunnyMountains\input3.txt" />
+    <Text Include="SunnyMountains\input2.txt" />
+    <Text Include="SunnyMountains\input1.txt" />
+    <Text Include="RecoverTheKey\res.txt" />
+    <Text Include="RecoverTheKey\output4.txt" />
+    <Text Include="RecoverTheKey\output3.txt" />
+    <Text Include="RecoverTheKey\output2.txt" />
+    <Text Include="RecoverTheKey\output1.txt" />
+    <Text Include="RecoverTheKey\input4.txt" />
+    <Text Include="RecoverTheKey\input3.txt" />
+    <Text Include="RecoverTheKey\input2.txt" />
+    <Text Include="RecoverTheKey\input1.txt" />
+    <Text Include="LiningUp\res.txt" />
+    <Text Include="LiningUp\output4.txt" />
+    <Text Include="LiningUp\output3.txt" />
+    <Text Include="LiningUp\output2.txt" />
+    <Text Include="LiningUp\output1.txt" />
+    <Text Include="LiningUp\input4.txt" />
+    <Text Include="LiningUp\input3.txt" />
+    <Text Include="LiningUp\input2.txt" />
+    <Text Include="LiningUp\input1.txt" />
+    <Text Include="Railway\res.txt" />
+    <Text Include="Railway\output4.txt" />
+    <Text Include="Railway\output3.txt" />
+    <Text Include="Railway\output2.txt" />
+    <Text Include="Railway\output1.txt" />
+    <Text Include="Railway\input4.txt" />
+    <Text Include="Railway\input3.txt" />
+    <Text Include="Railway\input2.txt" />
+    <Text Include="Railway\input1.txt" />
+    <Text Include="BrightLights\res.txt" />
+    <Text Include="BrightLights\output4.txt" />
+    <Text Include="BrightLights\output3.txt" />
+    <Text Include="BrightLights\output2.txt" />
+    <Text Include="BrightLights\output1.txt" />
+    <Text Include="BrightLights\input4.txt" />
+    <Text Include="BrightLights\input3.txt" />
+    <Text Include="BrightLights\input2.txt" />
+    <Text Include="BrightLights\input1.txt" />
+    <Text Include="Area\res.txt" />
+    <Text Include="Area\output4.txt" />
+    <Text Include="Area\output3.txt" />
+    <Text Include="Area\output2.txt" />
+    <Text Include="Area\output1.txt" />
+    <Text Include="Area\input4.txt" />
+    <Text Include="Area\input3.txt" />
+    <Text Include="Area\input2.txt" />
+    <Text Include="Area\input1.txt" />
+    <Text Include="TheGrazingCow\res.txt" />
+    <Text Include="TheGrazingCow\output4.txt" />
+    <Text Include="TheGrazingCow\output3.txt" />
+    <Text Include="TheGrazingCow\output2.txt" />
+    <Text Include="TheGrazingCow\output1.txt" />
+    <Text Include="TheGrazingCow\input4.txt" />
+    <Text Include="TheGrazingCow\input3.txt" />
+    <Text Include="TheGrazingCow\input2.txt" />
+    <Text Include="TheGrazingCow\input1.txt" />
+    <Text Include="SumItUp\res.txt" />
+    <Text Include="SumItUp\output4.txt" />
+    <Text Include="SumItUp\output3.txt" />
+    <Text Include="SumItUp\output2.txt" />
+    <Text Include="SumItUp\output1.txt" />
+    <Text Include="SumItUp\input4.txt" />
+    <Text Include="SumItUp\input3.txt" />
+    <Text Include="SumItUp\input2.txt" />
+    <Text Include="SumItUp\input1.txt" />
+    <Text Include="PackingPolygons\res.txt" />
+    <Text Include="PackingPolygons\output4.txt" />
+    <Text Include="PackingPolygons\output3.txt" />
+    <Text Include="PackingPolygons\output2.txt" />
+    <Text Include="PackingPolygons\output1.txt" />
+    <Text Include="PackingPolygons\input4.txt" />
+    <Text Include="PackingPolygons\input3.txt" />
+    <Text Include="PackingPolygons\input2.txt" />
+    <Text Include="PackingPolygons\input1.txt" />
+    <Text Include="ColourfulFlowers\input1.txt" />
+    <Text Include="ColourfulFlowers\input2.txt" />
+    <Text Include="ColourfulFlowers\input3.txt" />
+    <Text Include="ColourfulFlowers\input4.txt" />
+    <Text Include="ColourfulFlowers\output1.txt" />
+    <Text Include="ColourfulFlowers\output2.txt" />
+    <Text Include="ColourfulFlowers\output3.txt" />
+    <Text Include="ColourfulFlowers\output4.txt" />
+    <Text Include="ColourfulFlowers\res.txt" />
+    <Text Include="SocialConstraints\input1.txt" />
+    <Text Include="SocialConstraints\input2.txt" />
+    <Text Include="SocialConstraints\input3.txt" />
+    <Text Include="SocialConstraints\input4.txt" />
+    <Text Include="SocialConstraints\output1.txt" />
+    <Text Include="SocialConstraints\output2.txt" />
+    <Text Include="SocialConstraints\output3.txt" />
+    <Text Include="SocialConstraints\output4.txt" />
+    <Text Include="SocialConstraints\res.txt" />
+    <Text Include="Bars\input1.txt" />
+    <Text Include="Bars\input2.txt" />
+    <Text Include="Bars\input3.txt" />
+    <Text Include="Bars\input4.txt" />
+    <Text Include="Bars\output1.txt" />
+    <Text Include="Bars\output2.txt" />
+    <Text Include="Bars\output3.txt" />
+    <Text Include="Bars\output4.txt" />
+    <Text Include="Bars\res.txt" />
+    <Text Include="Beverages\input1.txt" />
+    <Text Include="Beverages\input2.txt" />
+    <Text Include="Beverages\input3.txt" />
+    <Text Include="Beverages\input4.txt" />
+    <Text Include="Beverages\output1.txt" />
+    <Text Include="Beverages\output2.txt" />
+    <Text Include="Beverages\output3.txt" />
+    <Text Include="Beverages\output4.txt" />
+    <Text Include="Beverages\res.txt" />
+    <Text Include="SoyaMilk\input1.txt" />
+    <Text Include="SoyaMilk\input2.txt" />
+    <Text Include="SoyaMilk\input3.txt" />
+    <Text Include="SoyaMilk\input4.txt" />
+    <Text Include="SoyaMilk\output1.txt" />
+    <Text Include="SoyaMilk\output2.txt" />
+    <Text Include="SoyaMilk\output3.txt" />
+    <Text Include="SoyaMilk\output4.txt" />
+    <Text Include="SoyaMilk\res.txt" />
+    <Text Include="OverlappingRectangles\input1.txt" />
+    <Text Include="OverlappingRectangles\input2.txt" />
+    <Text Include="OverlappingRectangles\input3.txt" />
+    <Text Include="OverlappingRectangles\input4.txt" />
+    <Text Include="OverlappingRectangles\output1.txt" />
+    <Text Include="OverlappingRectangles\output2.txt" />
+    <Text Include="OverlappingRectangles\output3.txt" />
+    <Text Include="OverlappingRectangles\output4.txt" />
+    <Text Include="OverlappingRectangles\res.txt" />
+    <Text Include="TheJackpot\input1.txt" />
+    <Text Include="TheJackpot\input2.txt" />
+    <Text Include="TheJackpot\input3.txt" />
+    <Text Include="TheJackpot\input4.txt" />
+    <Text Include="TheJackpot\output1.txt" />
+    <Text Include="TheJackpot\output2.txt" />
+    <Text Include="TheJackpot\output3.txt" />
+    <Text Include="TheJackpot\output4.txt" />
+    <Text Include="TheJackpot\res.txt" />
+    <Text Include="MaximumSubsequenceProduct\input1.txt" />
+    <Text Include="MaximumSubsequenceProduct\input2.txt" />
+    <Text Include="MaximumSubsequenceProduct\input3.txt" />
+    <Text Include="MaximumSubsequenceProduct\input4.txt" />
+    <Text Include="MaximumSubsequenceProduct\output1.txt" />
+    <Text Include="MaximumSubsequenceProduct\output2.txt" />
+    <Text Include="MaximumSubsequenceProduct\output3.txt" />
+    <Text Include="MaximumSubsequenceProduct\output4.txt" />
+    <Text Include="MaximumSubsequenceProduct\res.txt" />
+    <Text Include="WhatGoesUp\res.txt" />
+    <Text Include="WhatGoesUp\output4.txt" />
+    <Text Include="WhatGoesUp\output3.txt" />
+    <Text Include="WhatGoesUp\output2.txt" />
+    <Text Include="WhatGoesUp\output1.txt" />
+    <Text Include="WhatGoesUp\input4.txt" />
+    <Text Include="WhatGoesUp\input3.txt" />
+    <Text Include="WhatGoesUp\input2.txt" />
+    <Text Include="WhatGoesUp\input1.txt" />
+    <Text Include="Trainsorting\input1.txt" />
+    <Text Include="Trainsorting\input2.txt" />
+    <Text Include="Trainsorting\input3.txt" />
+    <Text Include="Trainsorting\input4.txt" />
+    <Text Include="Trainsorting\output1.txt" />
+    <Text Include="Trainsorting\output2.txt" />
+    <Text Include="Trainsorting\output3.txt" />
+    <Text Include="Trainsorting\output4.txt" />
+    <Text Include="Trainsorting\res.txt" />
+    <Text Include="MaximumSum\input1.txt" />
+    <Text Include="MaximumSum\input2.txt" />
+    <Text Include="MaximumSum\input3.txt" />
+    <Text Include="MaximumSum\input4.txt" />
+    <Text Include="MaximumSum\output1.txt" />
+    <Text Include="MaximumSum\output2.txt" />
+    <Text Include="MaximumSum\output3.txt" />
+    <Text Include="MaximumSum\output4.txt" />
+    <Text Include="MaximumSum\res.txt" />
+    <Text Include="StickerCollectorRobot\res.txt" />
+    <Text Include="StickerCollectorRobot\output4.txt" />
+    <Text Include="StickerCollectorRobot\output3.txt" />
+    <Text Include="StickerCollectorRobot\output2.txt" />
+    <Text Include="StickerCollectorRobot\output1.txt" />
+    <Text Include="StickerCollectorRobot\input4.txt" />
+    <Text Include="StickerCollectorRobot\input3.txt" />
+    <Text Include="StickerCollectorRobot\input2.txt" />
+    <Text Include="StickerCollectorRobot\input1.txt" />
+    <Text Include="Elevator\input1.txt" />
+    <Text Include="Elevator\input2.txt" />
+    <Text Include="Elevator\input3.txt" />
+    <Text Include="Elevator\input4.txt" />
+    <Text Include="Elevator\output1.txt" />
+    <Text Include="Elevator\output2.txt" />
+    <Text Include="Elevator\output3.txt" />
+    <Text Include="Elevator\output4.txt" />
+    <Text Include="Elevator\res.txt" />
+    <Text Include="GoldbachsConjecture\input1.txt" />
+    <Text Include="GoldbachsConjecture\input2.txt" />
+    <Text Include="GoldbachsConjecture\input3.txt" />
+    <Text Include="GoldbachsConjecture\input4.txt" />
+    <Text Include="GoldbachsConjecture\output1.txt" />
+    <Text Include="GoldbachsConjecture\output2.txt" />
+    <Text Include="GoldbachsConjecture\output3.txt" />
+    <Text Include="GoldbachsConjecture\output4.txt" />
+    <Text Include="GoldbachsConjecture\res.txt" />
+    <Text Include="TheEasiestWay\input1.txt" />
+    <Text Include="TheEasiestWay\input2.txt" />
+    <Text Include="TheEasiestWay\input3.txt" />
+    <Text Include="TheEasiestWay\input4.txt" />
+    <Text Include="TheEasiestWay\output1.txt" />
+    <Text Include="TheEasiestWay\output2.txt" />
+    <Text Include="TheEasiestWay\output3.txt" />
+    <Text Include="TheEasiestWay\output4.txt" />
+    <Text Include="TheEasiestWay\res.txt" />
+    <Text Include="CD\input1.txt" />
+    <Text Include="CD\input2.txt" />
+    <Text Include="CD\input3.txt" />
+    <Text Include="CD\input4.txt" />
+    <Text Include="CD\output1.txt" />
+    <Text Include="CD\output2.txt" />
+    <Text Include="CD\output3.txt" />
+    <Text Include="CD\output4.txt" />
+    <Text Include="CD\res.txt" />
+    <Text Include="BoundingBox\input1.txt" />
+    <Text Include="BoundingBox\input2.txt" />
+    <Text Include="BoundingBox\input3.txt" />
+    <Text Include="BoundingBox\input4.txt" />
+    <Text Include="BoundingBox\output1.txt" />
+    <Text Include="BoundingBox\output2.txt" />
+    <Text Include="BoundingBox\output3.txt" />
+    <Text Include="BoundingBox\output4.txt" />
+    <Text Include="BoundingBox\res.txt" />
+    <Text Include="BackToThe8Queens\input1.txt" />
+    <Text Include="BackToThe8Queens\input2.txt" />
+    <Text Include="BackToThe8Queens\input3.txt" />
+    <Text Include="BackToThe8Queens\input4.txt" />
+    <Text Include="BackToThe8Queens\output1.txt" />
+    <Text Include="BackToThe8Queens\output2.txt" />
+    <Text Include="BackToThe8Queens\output3.txt" />
+    <Text Include="BackToThe8Queens\output4.txt" />
+    <Text Include="BackToThe8Queens\res.txt" />
+    <Text Include="PrimeRingProblem\input1.txt" />
+    <Text Include="PrimeRingProblem\input2.txt" />
+    <Text Include="PrimeRingProblem\input3.txt" />
+    <Text Include="PrimeRingProblem\input4.txt" />
+    <Text Include="PrimeRingProblem\output1.txt" />
+    <Text Include="PrimeRingProblem\output2.txt" />
+    <Text Include="PrimeRingProblem\output3.txt" />
+    <Text Include="PrimeRingProblem\output4.txt" />
+    <Text Include="PrimeRingProblem\res.txt" />
+    <Text Include="Y2kAccountingBug\input1.txt" />
+    <Text Include="Y2kAccountingBug\input2.txt" />
+    <Text Include="Y2kAccountingBug\input3.txt" />
+    <Text Include="Y2kAccountingBug\input4.txt" />
+    <Text Include="Y2kAccountingBug\output1.txt" />
+    <Text Include="Y2kAccountingBug\output2.txt" />
+    <Text Include="Y2kAccountingBug\output3.txt" />
+    <Text Include="Y2kAccountingBug\output4.txt" />
+    <Text Include="Y2kAccountingBug\res.txt" />
+    <Text Include="TheDominoesSolitaire\input1.txt" />
+    <Text Include="TheDominoesSolitaire\input2.txt" />
+    <Text Include="TheDominoesSolitaire\input3.txt" />
+    <Text Include="TheDominoesSolitaire\input4.txt" />
+    <Text Include="TheDominoesSolitaire\output1.txt" />
+    <Text Include="TheDominoesSolitaire\output2.txt" />
+    <Text Include="TheDominoesSolitaire\output3.txt" />
+    <Text Include="TheDominoesSolitaire\output4.txt" />
+    <Text Include="TheDominoesSolitaire\res.txt" />
+    <Text Include="TwinPrimes\res.txt" />
+    <Text Include="TwinPrimes\output4.txt" />
+    <Text Include="TwinPrimes\output3.txt" />
+    <Text Include="TwinPrimes\output2.txt" />
+    <Text Include="TwinPrimes\output1.txt" />
+    <Text Include="TwinPrimes\input4.txt" />
+    <Text Include="TwinPrimes\input3.txt" />
+    <Text Include="TwinPrimes\input2.txt" />
+    <Text Include="TwinPrimes\input1.txt" />
+    <Text Include="MyDearNeighbors\input1.txt" />
+    <Text Include="MyDearNeighbors\input2.txt" />
+    <Text Include="MyDearNeighbors\input3.txt" />
+    <Text Include="MyDearNeighbors\input4.txt" />
+    <Text Include="MyDearNeighbors\output1.txt" />
+    <Text Include="MyDearNeighbors\output2.txt" />
+    <Text Include="MyDearNeighbors\output3.txt" />
+    <Text Include="MyDearNeighbors\output4.txt" />
+    <Text Include="MyDearNeighbors\res.txt" />
+    <Text Include="Risk\input1.txt" />
+    <Text Include="Risk\input2.txt" />
+    <Text Include="Risk\input3.txt" />
+    <Text Include="Risk\input4.txt" />
+    <Text Include="Risk\output1.txt" />
+    <Text Include="Risk\output2.txt" />
+    <Text Include="Risk\output3.txt" />
+    <Text Include="Risk\output4.txt" />
+    <Text Include="Risk\res.txt" />
+    <Text Include="DivisibilityOfFactors\input1.txt" />
+    <Text Include="DivisibilityOfFactors\input2.txt" />
+    <Text Include="DivisibilityOfFactors\input3.txt" />
+    <Text Include="DivisibilityOfFactors\input4.txt" />
+    <Text Include="DivisibilityOfFactors\output1.txt" />
+    <Text Include="DivisibilityOfFactors\output2.txt" />
+    <Text Include="DivisibilityOfFactors\output3.txt" />
+    <Text Include="DivisibilityOfFactors\output4.txt" />
+    <Text Include="DivisibilityOfFactors\res.txt" />
+    <Text Include="PrimeDistance\input1.txt" />
+    <Text Include="PrimeDistance\input2.txt" />
+    <Text Include="PrimeDistance\input3.txt" />
+    <Text Include="PrimeDistance\input4.txt" />
+    <Text Include="PrimeDistance\output1.txt" />
+    <Text Include="PrimeDistance\output2.txt" />
+    <Text Include="PrimeDistance\output3.txt" />
+    <Text Include="PrimeDistance\output4.txt" />
+    <Text Include="PrimeDistance\res.txt" />
+    <Text Include="Exams\input1.txt" />
+    <Text Include="Exams\input2.txt" />
+    <Text Include="Exams\input3.txt" />
+    <Text Include="Exams\input4.txt" />
+    <Text Include="Exams\output1.txt" />
+    <Text Include="Exams\output2.txt" />
+    <Text Include="Exams\output3.txt" />
+    <Text Include="Exams\output4.txt" />
+    <Text Include="Exams\res.txt" />
+    <Text Include="LongJumps\input1.txt" />
+    <Text Include="LongJumps\input2.txt" />
+    <Text Include="LongJumps\input3.txt" />
+    <Text Include="LongJumps\input4.txt" />
+    <Text Include="LongJumps\output1.txt" />
+    <Text Include="LongJumps\output2.txt" />
+    <Text Include="LongJumps\output3.txt" />
+    <Text Include="LongJumps\output4.txt" />
+    <Text Include="LongJumps\res.txt" />
+    <Text Include="ShellSort\input1.txt" />
+    <Text Include="ShellSort\input2.txt" />
+    <Text Include="ShellSort\input3.txt" />
+    <Text Include="ShellSort\input4.txt" />
+    <Text Include="ShellSort\output1.txt" />
+    <Text Include="ShellSort\output2.txt" />
+    <Text Include="ShellSort\output3.txt" />
+    <Text Include="ShellSort\output4.txt" />
+    <Text Include="ShellSort\res.txt" />
+    <Text Include="AsLongAsILearnILive\input1.txt" />
+    <Text Include="AsLongAsILearnILive\input2.txt" />
+    <Text Include="AsLongAsILearnILive\input3.txt" />
+    <Text Include="AsLongAsILearnILive\input4.txt" />
+    <Text Include="AsLongAsILearnILive\output1.txt" />
+    <Text Include="AsLongAsILearnILive\output2.txt" />
+    <Text Include="AsLongAsILearnILive\output3.txt" />
+    <Text Include="AsLongAsILearnILive\output4.txt" />
+    <Text Include="AsLongAsILearnILive\res.txt" />
+    <Text Include="SoftwareAllocation\input1.txt" />
+    <Text Include="SoftwareAllocation\input2.txt" />
+    <Text Include="SoftwareAllocation\input3.txt" />
+    <Text Include="SoftwareAllocation\input4.txt" />
+    <Text Include="SoftwareAllocation\output1.txt" />
+    <Text Include="SoftwareAllocation\output2.txt" />
+    <Text Include="SoftwareAllocation\output3.txt" />
+    <Text Include="SoftwareAllocation\output4.txt" />
+    <Text Include="SoftwareAllocation\res.txt" />
+    <Text Include="SimpleDivision\input1.txt" />
+    <Text Include="SimpleDivision\input2.txt" />
+    <Text Include="SimpleDivision\input3.txt" />
+    <Text Include="SimpleDivision\input4.txt" />
+    <Text Include="SimpleDivision\output1.txt" />
+    <Text Include="SimpleDivision\output2.txt" />
+    <Text Include="SimpleDivision\output3.txt" />
+    <Text Include="SimpleDivision\output4.txt" />
+    <Text Include="SimpleDivision\res.txt" />
+    <Text Include="MonkeysInTheEmeiMountain\input1.txt" />
+    <Text Include="MonkeysInTheEmeiMountain\input2.txt" />
+    <Text Include="MonkeysInTheEmeiMountain\input3.txt" />
+    <Text Include="MonkeysInTheEmeiMountain\input4.txt" />
+    <Text Include="MonkeysInTheEmeiMountain\output1.txt" />
+    <Text Include="MonkeysInTheEmeiMountain\output2.txt" />
+    <Text Include="MonkeysInTheEmeiMountain\output3.txt" />
+    <Text Include="MonkeysInTheEmeiMountain\output4.txt" />
+    <Text Include="MonkeysInTheEmeiMountain\res.txt" />
+    <Text Include="LCMCardinality\input1.txt" />
+    <Text Include="LCMCardinality\input2.txt" />
+    <Text Include="LCMCardinality\input3.txt" />
+    <Text Include="LCMCardinality\input4.txt" />
+    <Text Include="LCMCardinality\output1.txt" />
+    <Text Include="LCMCardinality\output2.txt" />
+    <Text Include="LCMCardinality\output3.txt" />
+    <Text Include="LCMCardinality\output4.txt" />
+    <Text Include="LCMCardinality\res.txt" />
+    <Text Include="MaximumGCD\input1.txt" />
+    <Text Include="MaximumGCD\input2.txt" />
+    <Text Include="MaximumGCD\input3.txt" />
+    <Text Include="MaximumGCD\input4.txt" />
+    <Text Include="MaximumGCD\output1.txt" />
+    <Text Include="MaximumGCD\output2.txt" />
+    <Text Include="MaximumGCD\output3.txt" />
+    <Text Include="MaximumGCD\output4.txt" />
+    <Text Include="MaximumGCD\res.txt" />
+    <Text Include="MischievousChildren\input1.txt" />
+    <Text Include="MischievousChildren\input2.txt" />
+    <Text Include="MischievousChildren\input3.txt" />
+    <Text Include="MischievousChildren\input4.txt" />
+    <Text Include="MischievousChildren\output1.txt" />
+    <Text Include="MischievousChildren\output2.txt" />
+    <Text Include="MischievousChildren\output3.txt" />
+    <Text Include="MischievousChildren\output4.txt" />
+    <Text Include="MischievousChildren\res.txt" />
+    <Text Include="PrimeFactors\input1.txt" />
+    <Text Include="PrimeFactors\input2.txt" />
+    <Text Include="PrimeFactors\input3.txt" />
+    <Text Include="PrimeFactors\input4.txt" />
+    <Text Include="PrimeFactors\output1.txt" />
+    <Text Include="PrimeFactors\output2.txt" />
+    <Text Include="PrimeFactors\output3.txt" />
+    <Text Include="PrimeFactors\output4.txt" />
+    <Text Include="PrimeFactors\res.txt" />
+    <Text Include="PrimeLand\input1.txt" />
+    <Text Include="PrimeLand\input2.txt" />
+    <Text Include="PrimeLand\input3.txt" />
+    <Text Include="PrimeLand\input4.txt" />
+    <Text Include="PrimeLand\output1.txt" />
+    <Text Include="PrimeLand\output2.txt" />
+    <Text Include="PrimeLand\output3.txt" />
+    <Text Include="PrimeLand\output4.txt" />
+    <Text Include="PrimeLand\res.txt" />
+    <Text Include="LargestPrimeDivisor\input1.txt" />
+    <Text Include="LargestPrimeDivisor\input2.txt" />
+    <Text Include="LargestPrimeDivisor\input3.txt" />
+    <Text Include="LargestPrimeDivisor\input4.txt" />
+    <Text Include="LargestPrimeDivisor\output1.txt" />
+    <Text Include="LargestPrimeDivisor\output2.txt" />
+    <Text Include="LargestPrimeDivisor\output3.txt" />
+    <Text Include="LargestPrimeDivisor\output4.txt" />
+    <Text Include="LargestPrimeDivisor\res.txt" />
+    <Text Include="Factovisers\input1.txt" />
+    <Text Include="Factovisers\input2.txt" />
+    <Text Include="Factovisers\input3.txt" />
+    <Text Include="Factovisers\input4.txt" />
+    <Text Include="Factovisers\output1.txt" />
+    <Text Include="Factovisers\output2.txt" />
+    <Text Include="Factovisers\output3.txt" />
+    <Text Include="Factovisers\output4.txt" />
+    <Text Include="Factovisers\res.txt" />
+    <Text Include="MikeAndFun\input1.txt" />
+    <Text Include="MikeAndFun\input2.txt" />
+    <Text Include="MikeAndFun\input3.txt" />
+    <Text Include="MikeAndFun\input4.txt" />
+    <Text Include="MikeAndFun\output1.txt" />
+    <Text Include="MikeAndFun\output2.txt" />
+    <Text Include="MikeAndFun\output3.txt" />
+    <Text Include="MikeAndFun\output4.txt" />
+    <Text Include="MikeAndFun\res.txt" />
+    <Text Include="DragonOfLoowater\input1.txt" />
+    <Text Include="DragonOfLoowater\input2.txt" />
+    <Text Include="DragonOfLoowater\input3.txt" />
+    <Text Include="DragonOfLoowater\input4.txt" />
+    <Text Include="DragonOfLoowater\output1.txt" />
+    <Text Include="DragonOfLoowater\output2.txt" />
+    <Text Include="DragonOfLoowater\output3.txt" />
+    <Text Include="DragonOfLoowater\output4.txt" />
+    <Text Include="DragonOfLoowater\res.txt" />
+    <Text Include="AmrAndMusic\input1.txt" />
+    <Text Include="AmrAndMusic\input2.txt" />
+    <Text Include="AmrAndMusic\input3.txt" />
+    <Text Include="AmrAndMusic\input4.txt" />
+    <Text Include="AmrAndMusic\output1.txt" />
+    <Text Include="AmrAndMusic\output2.txt" />
+    <Text Include="AmrAndMusic\output3.txt" />
+    <Text Include="AmrAndMusic\output4.txt" />
+    <Text Include="AmrAndMusic\res.txt" />
+    <Text Include="AmrAndPins\input1.txt" />
+    <Text Include="AmrAndPins\input2.txt" />
+    <Text Include="AmrAndPins\input3.txt" />
+    <Text Include="AmrAndPins\input4.txt" />
+    <Text Include="AmrAndPins\output1.txt" />
+    <Text Include="AmrAndPins\output2.txt" />
+    <Text Include="AmrAndPins\output3.txt" />
+    <Text Include="AmrAndPins\output4.txt" />
+    <Text Include="AmrAndPins\res.txt" />
+    <Text Include="GuessYourWayOut\input1.txt" />
+    <Text Include="GuessYourWayOut\input2.txt" />
+    <Text Include="GuessYourWayOut\input3.txt" />
+    <Text Include="GuessYourWayOut\input4.txt" />
+    <Text Include="GuessYourWayOut\output1.txt" />
+    <Text Include="GuessYourWayOut\output2.txt" />
+    <Text Include="GuessYourWayOut\output3.txt" />
+    <Text Include="GuessYourWayOut\output4.txt" />
+    <Text Include="GuessYourWayOut\res.txt" />
+    <Text Include="YouWin\input1.txt" />
+    <Text Include="YouWin\input2.txt" />
+    <Text Include="YouWin\input3.txt" />
+    <Text Include="YouWin\input4.txt" />
+    <Text Include="YouWin\output1.txt" />
+    <Text Include="YouWin\output2.txt" />
+    <Text Include="YouWin\output3.txt" />
+    <Text Include="YouWin\output4.txt" />
+    <Text Include="YouWin\res.txt" />
+    <Text Include="GraphColoring\input1.txt" />
+    <Text Include="GraphColoring\input2.txt" />
+    <Text Include="GraphColoring\input3.txt" />
+    <Text Include="GraphColoring\input4.txt" />
+    <Text Include="GraphColoring\output1.txt" />
+    <Text Include="GraphColoring\output2.txt" />
+    <Text Include="GraphColoring\output3.txt" />
+    <Text Include="GraphColoring\output4.txt" />
+    <Text Include="GraphColoring\res.txt" />
+    <Text Include="LEDTest\input1.txt" />
+    <Text Include="LEDTest\input2.txt" />
+    <Text Include="LEDTest\input3.txt" />
+    <Text Include="LEDTest\input4.txt" />
+    <Text Include="LEDTest\output1.txt" />
+    <Text Include="LEDTest\output2.txt" />
+    <Text Include="LEDTest\output3.txt" />
+    <Text Include="LEDTest\output4.txt" />
+    <Text Include="LEDTest\res.txt" />
+    <Text Include="RemovingColumns\res.txt" />
+    <Text Include="RemovingColumns\output4.txt" />
+    <Text Include="RemovingColumns\output3.txt" />
+    <Text Include="RemovingColumns\output2.txt" />
+    <Text Include="RemovingColumns\output1.txt" />
+    <Text Include="RemovingColumns\input4.txt" />
+    <Text Include="RemovingColumns\input3.txt" />
+    <Text Include="RemovingColumns\input2.txt" />
+    <Text Include="RemovingColumns\input1.txt" />
+    <Text Include="ChewbaccaAndNumber\input1.txt" />
+    <Text Include="ChewbaccaAndNumber\input2.txt" />
+    <Text Include="ChewbaccaAndNumber\input3.txt" />
+    <Text Include="ChewbaccaAndNumber\input4.txt" />
+    <Text Include="ChewbaccaAndNumber\output1.txt" />
+    <Text Include="ChewbaccaAndNumber\output2.txt" />
+    <Text Include="ChewbaccaAndNumber\output3.txt" />
+    <Text Include="ChewbaccaAndNumber\output4.txt" />
+    <Text Include="ChewbaccaAndNumber\res.txt" />
+    <Text Include="HanSoloAndLazerGun\input1.txt" />
+    <Text Include="HanSoloAndLazerGun\input2.txt" />
+    <Text Include="HanSoloAndLazerGun\input3.txt" />
+    <Text Include="HanSoloAndLazerGun\input4.txt" />
+    <Text Include="HanSoloAndLazerGun\output1.txt" />
+    <Text Include="HanSoloAndLazerGun\output2.txt" />
+    <Text Include="HanSoloAndLazerGun\output3.txt" />
+    <Text Include="HanSoloAndLazerGun\output4.txt" />
+    <Text Include="HanSoloAndLazerGun\res.txt" />
+    <Text Include="WattoAndMechanism\input1.txt" />
+    <Text Include="WattoAndMechanism\input2.txt" />
+    <Text Include="WattoAndMechanism\input3.txt" />
+    <Text Include="WattoAndMechanism\input4.txt" />
+    <Text Include="WattoAndMechanism\output1.txt" />
+    <Text Include="WattoAndMechanism\output2.txt" />
+    <Text Include="WattoAndMechanism\output3.txt" />
+    <Text Include="WattoAndMechanism\output4.txt" />
+    <Text Include="WattoAndMechanism\res.txt" />
+    <Text Include="MyTShirtSuitsMe\input1.txt" />
+    <Text Include="MyTShirtSuitsMe\input2.txt" />
+    <Text Include="MyTShirtSuitsMe\input3.txt" />
+    <Text Include="MyTShirtSuitsMe\input4.txt" />
+    <Text Include="MyTShirtSuitsMe\output1.txt" />
+    <Text Include="MyTShirtSuitsMe\output2.txt" />
+    <Text Include="MyTShirtSuitsMe\output3.txt" />
+    <Text Include="MyTShirtSuitsMe\output4.txt" />
+    <Text Include="MyTShirtSuitsMe\res.txt" />
+    <Text Include="Bicoloring\input1.txt" />
+    <Text Include="Bicoloring\input2.txt" />
+    <Text Include="Bicoloring\input3.txt" />
+    <Text Include="Bicoloring\input4.txt" />
+    <Text Include="Bicoloring\output1.txt" />
+    <Text Include="Bicoloring\output2.txt" />
+    <Text Include="Bicoloring\output3.txt" />
+    <Text Include="Bicoloring\output4.txt" />
+    <Text Include="Bicoloring\res.txt" />
+    <Text Include="MikeAndFax\input1.txt" />
+    <Text Include="MikeAndFax\input2.txt" />
+    <Text Include="MikeAndFax\input3.txt" />
+    <Text Include="MikeAndFax\input4.txt" />
+    <Text Include="MikeAndFax\output1.txt" />
+    <Text Include="MikeAndFax\output2.txt" />
+    <Text Include="MikeAndFax\output3.txt" />
+    <Text Include="MikeAndFax\output4.txt" />
+    <Text Include="MikeAndFax\res.txt" />
+    <Text Include="ClawDecomposition\input1.txt" />
+    <Text Include="ClawDecomposition\input2.txt" />
+    <Text Include="ClawDecomposition\input3.txt" />
+    <Text Include="ClawDecomposition\input4.txt" />
+    <Text Include="ClawDecomposition\output1.txt" />
+    <Text Include="ClawDecomposition\output2.txt" />
+    <Text Include="ClawDecomposition\output3.txt" />
+    <Text Include="ClawDecomposition\output4.txt" />
+    <Text Include="ClawDecomposition\res.txt" />
+    <Text Include="Codeforces\R307D2\AGukiZAndContest\res.txt" />
+    <Text Include="Codeforces\R307D2\AGukiZAndContest\output4.txt" />
+    <Text Include="Codeforces\R307D2\AGukiZAndContest\output3.txt" />
+    <Text Include="Codeforces\R307D2\AGukiZAndContest\output2.txt" />
+    <Text Include="Codeforces\R307D2\AGukiZAndContest\output1.txt" />
+    <Text Include="Codeforces\R307D2\AGukiZAndContest\input4.txt" />
+    <Text Include="Codeforces\R307D2\AGukiZAndContest\input3.txt" />
+    <Text Include="Codeforces\R307D2\AGukiZAndContest\input2.txt" />
+    <Text Include="Codeforces\R307D2\AGukiZAndContest\input1.txt" />
+    <Text Include="Codeforces\R307D2\BZgukistringZ\input1.txt" />
+    <Text Include="Codeforces\R307D2\BZgukistringZ\input2.txt" />
+    <Text Include="Codeforces\R307D2\BZgukistringZ\input3.txt" />
+    <Text Include="Codeforces\R307D2\BZgukistringZ\input4.txt" />
+    <Text Include="Codeforces\R307D2\BZgukistringZ\output1.txt" />
+    <Text Include="Codeforces\R307D2\BZgukistringZ\output2.txt" />
+    <Text Include="Codeforces\R307D2\BZgukistringZ\output3.txt" />
+    <Text Include="Codeforces\R307D2\BZgukistringZ\output4.txt" />
+    <Text Include="Codeforces\R307D2\BZgukistringZ\res.txt" />
+    <Text Include="Graph\SSSP\Wormholes\input1.txt" />
+    <Text Include="Graph\SSSP\Wormholes\input2.txt" />
+    <Text Include="Graph\SSSP\Wormholes\input3.txt" />
+    <Text Include="Graph\SSSP\Wormholes\input4.txt" />
+    <Text Include="Graph\SSSP\Wormholes\output1.txt" />
+    <Text Include="Graph\SSSP\Wormholes\output2.txt" />
+    <Text Include="Graph\SSSP\Wormholes\output3.txt" />
+    <Text Include="Graph\SSSP\Wormholes\output4.txt" />
+    <Text Include="Graph\SSSP\Wormholes\res.txt" />
+    <Text Include="Graph\SSSP\Xyzzy\input1.txt" />
+    <Text Include="Graph\SSSP\Xyzzy\input2.txt" />
+    <Text Include="Graph\SSSP\Xyzzy\input3.txt" />
+    <Text Include="Graph\SSSP\Xyzzy\input4.txt" />
+    <Text Include="Graph\SSSP\Xyzzy\output1.txt" />
+    <Text Include="Graph\SSSP\Xyzzy\output2.txt" />
+    <Text Include="Graph\SSSP\Xyzzy\output3.txt" />
+    <Text Include="Graph\SSSP\Xyzzy\output4.txt" />
+    <Text Include="Graph\SSSP\Xyzzy\res.txt" />
+    <Text Include="Graph\TopologicalSort\PickUpSticks\input1.txt" />
+    <Text Include="Graph\TopologicalSort\PickUpSticks\input2.txt" />
+    <Text Include="Graph\TopologicalSort\PickUpSticks\input3.txt" />
+    <Text Include="Graph\TopologicalSort\PickUpSticks\input4.txt" />
+    <Text Include="Graph\TopologicalSort\PickUpSticks\output1.txt" />
+    <Text Include="Graph\TopologicalSort\PickUpSticks\output2.txt" />
+    <Text Include="Graph\TopologicalSort\PickUpSticks\output3.txt" />
+    <Text Include="Graph\TopologicalSort\PickUpSticks\output4.txt" />
+    <Text Include="Graph\TopologicalSort\PickUpSticks\res.txt" />
+    <Text Include="Graph\SSSP\Traffic\input1.txt" />
+    <Text Include="Graph\SSSP\Traffic\input2.txt" />
+    <Text Include="Graph\SSSP\Traffic\input3.txt" />
+    <Text Include="Graph\SSSP\Traffic\input4.txt" />
+    <Text Include="Graph\SSSP\Traffic\output1.txt" />
+    <Text Include="Graph\SSSP\Traffic\output2.txt" />
+    <Text Include="Graph\SSSP\Traffic\output3.txt" />
+    <Text Include="Graph\SSSP\Traffic\output4.txt" />
+    <Text Include="Graph\SSSP\Traffic\res.txt" />
+    <Text Include="Graph\ArticulationPointsAndBridges\DovesAndBombs\input1.txt" />
+    <Text Include="Graph\ArticulationPointsAndBridges\DovesAndBombs\input2.txt" />
+    <Text Include="Graph\ArticulationPointsAndBridges\DovesAndBombs\input3.txt" />
+    <Text Include="Graph\ArticulationPointsAndBridges\DovesAndBombs\input4.txt" />
+    <Text Include="Graph\ArticulationPointsAndBridges\DovesAndBombs\output1.txt" />
+    <Text Include="Graph\ArticulationPointsAndBridges\DovesAndBombs\output2.txt" />
+    <Text Include="Graph\ArticulationPointsAndBridges\DovesAndBombs\output3.txt" />
+    <Text Include="Graph\ArticulationPointsAndBridges\DovesAndBombs\output4.txt" />
+    <Text Include="Graph\ArticulationPointsAndBridges\DovesAndBombs\res.txt" />
+    <Text Include="Graph\MST\HeavyCycleEdges\input1.txt" />
+    <Text Include="Graph\MST\HeavyCycleEdges\input2.txt" />
+    <Text Include="Graph\MST\HeavyCycleEdges\input3.txt" />
+    <Text Include="Graph\MST\HeavyCycleEdges\input4.txt" />
+    <Text Include="Graph\MST\HeavyCycleEdges\output1.txt" />
+    <Text Include="Graph\MST\HeavyCycleEdges\output2.txt" />
+    <Text Include="Graph\MST\HeavyCycleEdges\output3.txt" />
+    <Text Include="Graph\MST\HeavyCycleEdges\output4.txt" />
+    <Text Include="Graph\MST\HeavyCycleEdges\res.txt" />
+    <Text Include="IPSC\FFamiliarCouples\input1.txt" />
+    <Text Include="IPSC\FFamiliarCouples\input2.txt" />
+    <Text Include="IPSC\FFamiliarCouples\input3.txt" />
+    <Text Include="IPSC\FFamiliarCouples\input4.txt" />
+    <Text Include="IPSC\FFamiliarCouples\output1.txt" />
+    <Text Include="IPSC\FFamiliarCouples\output2.txt" />
+    <Text Include="IPSC\FFamiliarCouples\output3.txt" />
+    <Text Include="IPSC\FFamiliarCouples\output4.txt" />
+    <Text Include="IPSC\FFamiliarCouples\res.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\CallingCircles\input1.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\CallingCircles\input2.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\CallingCircles\input3.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\CallingCircles\input4.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\CallingCircles\output1.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\CallingCircles\output2.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\CallingCircles\output3.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\CallingCircles\output4.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\CallingCircles\res.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\ComeAndGo\input1.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\ComeAndGo\input2.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\ComeAndGo\input3.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\ComeAndGo\input4.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\ComeAndGo\output1.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\ComeAndGo\output2.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\ComeAndGo\output3.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\ComeAndGo\output4.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\ComeAndGo\res.txt" />
+    <Text Include="Graph\TopologicalSort\Ordering\input1.txt" />
+    <Text Include="Graph\TopologicalSort\Ordering\input2.txt" />
+    <Text Include="Graph\TopologicalSort\Ordering\input3.txt" />
+    <Text Include="Graph\TopologicalSort\Ordering\input4.txt" />
+    <Text Include="Graph\TopologicalSort\Ordering\output1.txt" />
+    <Text Include="Graph\TopologicalSort\Ordering\output2.txt" />
+    <Text Include="Graph\TopologicalSort\Ordering\output3.txt" />
+    <Text Include="Graph\TopologicalSort\Ordering\output4.txt" />
+    <Text Include="Graph\TopologicalSort\Ordering\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DivideAndConquer\FillTheContainers\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DivideAndConquer\FillTheContainers\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DivideAndConquer\FillTheContainers\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DivideAndConquer\FillTheContainers\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DivideAndConquer\FillTheContainers\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DivideAndConquer\FillTheContainers\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DivideAndConquer\FillTheContainers\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DivideAndConquer\FillTheContainers\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DivideAndConquer\FillTheContainers\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\GettingInLine\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\GettingInLine\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\GettingInLine\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\GettingInLine\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\GettingInLine\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\GettingInLine\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\GettingInLine\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\GettingInLine\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\GettingInLine\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivisibleGroupSums\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivisibleGroupSums\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivisibleGroupSums\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivisibleGroupSums\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivisibleGroupSums\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivisibleGroupSums\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivisibleGroupSums\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivisibleGroupSums\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivisibleGroupSums\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\TroubleOf13Dots\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\TroubleOf13Dots\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\TroubleOf13Dots\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\TroubleOf13Dots\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\TroubleOf13Dots\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\TroubleOf13Dots\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\TroubleOf13Dots\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\TroubleOf13Dots\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\TroubleOf13Dots\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\CollectingBeepers\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\CollectingBeepers\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\CollectingBeepers\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\CollectingBeepers\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\CollectingBeepers\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\CollectingBeepers\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\CollectingBeepers\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\CollectingBeepers\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\TravelingSalesman\CollectingBeepers\res.txt" />
+    <Text Include="Codeforces\R308D2\B\input1.txt" />
+    <Text Include="Codeforces\R308D2\B\input2.txt" />
+    <Text Include="Codeforces\R308D2\B\input3.txt" />
+    <Text Include="Codeforces\R308D2\B\input4.txt" />
+    <Text Include="Codeforces\R308D2\B\output1.txt" />
+    <Text Include="Codeforces\R308D2\B\output2.txt" />
+    <Text Include="Codeforces\R308D2\B\output3.txt" />
+    <Text Include="Codeforces\R308D2\B\output4.txt" />
+    <Text Include="Codeforces\R308D2\B\res.txt" />
+    <Text Include="DataStructures\FrequentValues\input1.txt" />
+    <Text Include="DataStructures\FrequentValues\input2.txt" />
+    <Text Include="DataStructures\FrequentValues\input3.txt" />
+    <Text Include="DataStructures\FrequentValues\input4.txt" />
+    <Text Include="DataStructures\FrequentValues\output1.txt" />
+    <Text Include="DataStructures\FrequentValues\output2.txt" />
+    <Text Include="DataStructures\FrequentValues\output3.txt" />
+    <Text Include="DataStructures\FrequentValues\output4.txt" />
+    <Text Include="DataStructures\FrequentValues\res.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\Dominos\input1.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\Dominos\input2.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\Dominos\input3.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\Dominos\input4.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\Dominos\output1.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\Dominos\output2.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\Dominos\output3.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\Dominos\output4.txt" />
+    <Text Include="Graph\StronglyConnectedComponents\Dominos\res.txt" />
+    <Text Include="Graph\APSP\MeetingProfMiguel\input1.txt" />
+    <Text Include="Graph\APSP\MeetingProfMiguel\input2.txt" />
+    <Text Include="Graph\APSP\MeetingProfMiguel\input3.txt" />
+    <Text Include="Graph\APSP\MeetingProfMiguel\input4.txt" />
+    <Text Include="Graph\APSP\MeetingProfMiguel\output1.txt" />
+    <Text Include="Graph\APSP\MeetingProfMiguel\output2.txt" />
+    <Text Include="Graph\APSP\MeetingProfMiguel\output3.txt" />
+    <Text Include="Graph\APSP\MeetingProfMiguel\output4.txt" />
+    <Text Include="Graph\APSP\MeetingProfMiguel\res.txt" />
+    <Text Include="Graph\APSP\Commandos\input1.txt" />
+    <Text Include="Graph\APSP\Commandos\input2.txt" />
+    <Text Include="Graph\APSP\Commandos\input3.txt" />
+    <Text Include="Graph\APSP\Commandos\input4.txt" />
+    <Text Include="Graph\APSP\Commandos\output1.txt" />
+    <Text Include="Graph\APSP\Commandos\output2.txt" />
+    <Text Include="Graph\APSP\Commandos\output3.txt" />
+    <Text Include="Graph\APSP\Commandos\output4.txt" />
+    <Text Include="Graph\APSP\Commandos\res.txt" />
+    <Text Include="Graph\APSP\Arbitrage\input1.txt" />
+    <Text Include="Graph\APSP\Arbitrage\input2.txt" />
+    <Text Include="Graph\APSP\Arbitrage\input3.txt" />
+    <Text Include="Graph\APSP\Arbitrage\input4.txt" />
+    <Text Include="Graph\APSP\Arbitrage\output1.txt" />
+    <Text Include="Graph\APSP\Arbitrage\output2.txt" />
+    <Text Include="Graph\APSP\Arbitrage\output3.txt" />
+    <Text Include="Graph\APSP\Arbitrage\output4.txt" />
+    <Text Include="Graph\APSP\Arbitrage\res.txt" />
+    <Text Include="Graph\SSSP\KnightMoves\input1.txt" />
+    <Text Include="Graph\SSSP\KnightMoves\input2.txt" />
+    <Text Include="Graph\SSSP\KnightMoves\input3.txt" />
+    <Text Include="Graph\SSSP\KnightMoves\input4.txt" />
+    <Text Include="Graph\SSSP\KnightMoves\output1.txt" />
+    <Text Include="Graph\SSSP\KnightMoves\output2.txt" />
+    <Text Include="Graph\SSSP\KnightMoves\output3.txt" />
+    <Text Include="Graph\SSSP\KnightMoves\output4.txt" />
+    <Text Include="Graph\SSSP\KnightMoves\res.txt" />
+    <Text Include="Graph\SSSP\BombsNoTheyAreMines\input1.txt" />
+    <Text Include="Graph\SSSP\BombsNoTheyAreMines\input2.txt" />
+    <Text Include="Graph\SSSP\BombsNoTheyAreMines\input3.txt" />
+    <Text Include="Graph\SSSP\BombsNoTheyAreMines\input4.txt" />
+    <Text Include="Graph\SSSP\BombsNoTheyAreMines\output1.txt" />
+    <Text Include="Graph\SSSP\BombsNoTheyAreMines\output2.txt" />
+    <Text Include="Graph\SSSP\BombsNoTheyAreMines\output3.txt" />
+    <Text Include="Graph\SSSP\BombsNoTheyAreMines\output4.txt" />
+    <Text Include="Graph\SSSP\BombsNoTheyAreMines\res.txt" />
+    <Text Include="Graph\SSSP\MallMania\input1.txt" />
+    <Text Include="Graph\SSSP\MallMania\input2.txt" />
+    <Text Include="Graph\SSSP\MallMania\input3.txt" />
+    <Text Include="Graph\SSSP\MallMania\input4.txt" />
+    <Text Include="Graph\SSSP\MallMania\output1.txt" />
+    <Text Include="Graph\SSSP\MallMania\output2.txt" />
+    <Text Include="Graph\SSSP\MallMania\output3.txt" />
+    <Text Include="Graph\SSSP\MallMania\output4.txt" />
+    <Text Include="Graph\SSSP\MallMania\res.txt" />
+    <Text Include="Graph\SSSP\UnlockTheLock\input1.txt" />
+    <Text Include="Graph\SSSP\UnlockTheLock\input2.txt" />
+    <Text Include="Graph\SSSP\UnlockTheLock\input3.txt" />
+    <Text Include="Graph\SSSP\UnlockTheLock\input4.txt" />
+    <Text Include="Graph\SSSP\UnlockTheLock\output1.txt" />
+    <Text Include="Graph\SSSP\UnlockTheLock\output2.txt" />
+    <Text Include="Graph\SSSP\UnlockTheLock\output3.txt" />
+    <Text Include="Graph\SSSP\UnlockTheLock\output4.txt" />
+    <Text Include="Graph\SSSP\UnlockTheLock\res.txt" />
+    <Text Include="Graph\MST\JungleRoads\input1.txt" />
+    <Text Include="Graph\MST\JungleRoads\input2.txt" />
+    <Text Include="Graph\MST\JungleRoads\input3.txt" />
+    <Text Include="Graph\MST\JungleRoads\input4.txt" />
+    <Text Include="Graph\MST\JungleRoads\output1.txt" />
+    <Text Include="Graph\MST\JungleRoads\output2.txt" />
+    <Text Include="Graph\MST\JungleRoads\output3.txt" />
+    <Text Include="Graph\MST\JungleRoads\output4.txt" />
+    <Text Include="Graph\MST\JungleRoads\res.txt" />
+    <Text Include="ExchangeRates\input1.txt" />
+    <Text Include="ExchangeRates\input2.txt" />
+    <Text Include="ExchangeRates\input3.txt" />
+    <Text Include="ExchangeRates\input4.txt" />
+    <Text Include="ExchangeRates\output1.txt" />
+    <Text Include="ExchangeRates\output2.txt" />
+    <Text Include="ExchangeRates\output3.txt" />
+    <Text Include="ExchangeRates\output4.txt" />
+    <Text Include="ExchangeRates\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\IngenuousCubrency\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\IngenuousCubrency\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\IngenuousCubrency\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\IngenuousCubrency\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\IngenuousCubrency\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\IngenuousCubrency\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\IngenuousCubrency\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\IngenuousCubrency\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\IngenuousCubrency\res.txt" />
+    <Text Include="UltiCodeJam\A\input1.txt" />
+    <Text Include="UltiCodeJam\A\input2.txt" />
+    <Text Include="UltiCodeJam\A\input3.txt" />
+    <Text Include="UltiCodeJam\A\input4.txt" />
+    <Text Include="UltiCodeJam\A\output1.txt" />
+    <Text Include="UltiCodeJam\A\output2.txt" />
+    <Text Include="UltiCodeJam\A\output3.txt" />
+    <Text Include="UltiCodeJam\A\output4.txt" />
+    <Text Include="UltiCodeJam\A\res.txt" />
+    <Text Include="UltiCodeJam\B\input1.txt" />
+    <Text Include="UltiCodeJam\B\input2.txt" />
+    <Text Include="UltiCodeJam\B\input3.txt" />
+    <Text Include="UltiCodeJam\B\input4.txt" />
+    <Text Include="UltiCodeJam\B\output1.txt" />
+    <Text Include="UltiCodeJam\B\output2.txt" />
+    <Text Include="UltiCodeJam\B\output3.txt" />
+    <Text Include="UltiCodeJam\B\output4.txt" />
+    <Text Include="UltiCodeJam\B\res.txt" />
+    <Text Include="UltiCodeJam\C\input1.txt" />
+    <Text Include="UltiCodeJam\C\input2.txt" />
+    <Text Include="UltiCodeJam\C\input3.txt" />
+    <Text Include="UltiCodeJam\C\input4.txt" />
+    <Text Include="UltiCodeJam\C\output1.txt" />
+    <Text Include="UltiCodeJam\C\output2.txt" />
+    <Text Include="UltiCodeJam\C\output3.txt" />
+    <Text Include="UltiCodeJam\C\output4.txt" />
+    <Text Include="UltiCodeJam\C\res.txt" />
+    <Text Include="UltiCodeJam\D\input1.txt" />
+    <Text Include="UltiCodeJam\D\input2.txt" />
+    <Text Include="UltiCodeJam\D\input3.txt" />
+    <Text Include="UltiCodeJam\D\input4.txt" />
+    <Text Include="UltiCodeJam\D\output1.txt" />
+    <Text Include="UltiCodeJam\D\output2.txt" />
+    <Text Include="UltiCodeJam\D\output3.txt" />
+    <Text Include="UltiCodeJam\D\output4.txt" />
+    <Text Include="UltiCodeJam\D\res.txt" />
+    <Text Include="UltiCodeJam\E\input1.txt" />
+    <Text Include="UltiCodeJam\E\input2.txt" />
+    <Text Include="UltiCodeJam\E\input3.txt" />
+    <Text Include="UltiCodeJam\E\input4.txt" />
+    <Text Include="UltiCodeJam\E\output1.txt" />
+    <Text Include="UltiCodeJam\E\output2.txt" />
+    <Text Include="UltiCodeJam\E\output3.txt" />
+    <Text Include="UltiCodeJam\E\output4.txt" />
+    <Text Include="UltiCodeJam\E\res.txt" />
+    <Text Include="UltiCodeJam\F\input1.txt" />
+    <Text Include="UltiCodeJam\F\input2.txt" />
+    <Text Include="UltiCodeJam\F\input3.txt" />
+    <Text Include="UltiCodeJam\F\input4.txt" />
+    <Text Include="UltiCodeJam\F\output1.txt" />
+    <Text Include="UltiCodeJam\F\output2.txt" />
+    <Text Include="UltiCodeJam\F\output3.txt" />
+    <Text Include="UltiCodeJam\F\output4.txt" />
+    <Text Include="UltiCodeJam\F\res.txt" />
+    <Text Include="UltiCodeJam\G\input1.txt" />
+    <Text Include="UltiCodeJam\G\input2.txt" />
+    <Text Include="UltiCodeJam\G\input3.txt" />
+    <Text Include="UltiCodeJam\G\input4.txt" />
+    <Text Include="UltiCodeJam\G\output1.txt" />
+    <Text Include="UltiCodeJam\G\output2.txt" />
+    <Text Include="UltiCodeJam\G\output3.txt" />
+    <Text Include="UltiCodeJam\G\output4.txt" />
+    <Text Include="UltiCodeJam\G\res.txt" />
+    <Text Include="UltiCodeJam\H\input1.txt" />
+    <Text Include="UltiCodeJam\H\input2.txt" />
+    <Text Include="UltiCodeJam\H\input3.txt" />
+    <Text Include="UltiCodeJam\H\input4.txt" />
+    <Text Include="UltiCodeJam\H\output1.txt" />
+    <Text Include="UltiCodeJam\H\output2.txt" />
+    <Text Include="UltiCodeJam\H\output3.txt" />
+    <Text Include="UltiCodeJam\H\output4.txt" />
+    <Text Include="UltiCodeJam\H\res.txt" />
+    <Text Include="UltiCodeJam\I\input1.txt" />
+    <Text Include="UltiCodeJam\I\input2.txt" />
+    <Text Include="UltiCodeJam\I\input3.txt" />
+    <Text Include="UltiCodeJam\I\input4.txt" />
+    <Text Include="UltiCodeJam\I\output1.txt" />
+    <Text Include="UltiCodeJam\I\output2.txt" />
+    <Text Include="UltiCodeJam\I\output3.txt" />
+    <Text Include="UltiCodeJam\I\output4.txt" />
+    <Text Include="UltiCodeJam\I\res.txt" />
+    <Text Include="UltiCodeJam\ZTest\input1.txt" />
+    <Text Include="UltiCodeJam\ZTest\input2.txt" />
+    <Text Include="UltiCodeJam\ZTest\input3.txt" />
+    <Text Include="UltiCodeJam\ZTest\input4.txt" />
+    <Text Include="UltiCodeJam\ZTest\output1.txt" />
+    <Text Include="UltiCodeJam\ZTest\output2.txt" />
+    <Text Include="UltiCodeJam\ZTest\output3.txt" />
+    <Text Include="UltiCodeJam\ZTest\output4.txt" />
+    <Text Include="UltiCodeJam\ZTest\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\CoinChange\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\CoinChange\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\CoinChange\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\CoinChange\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\CoinChange\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\CoinChange\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\CoinChange\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\CoinChange\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\CoinChange\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivingForGold\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivingForGold\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivingForGold\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivingForGold\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivingForGold\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivingForGold\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivingForGold\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivingForGold\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\DivingForGold\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SuperSale\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SuperSale\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SuperSale\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SuperSale\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SuperSale\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SuperSale\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SuperSale\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SuperSale\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\SuperSale\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\Luggage\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\Luggage\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\Luggage\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\Luggage\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\Luggage\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\Luggage\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\Luggage\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\Luggage\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\Knapsack\Luggage\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\MakingChange\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\MakingChange\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\MakingChange\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\MakingChange\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\MakingChange\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\MakingChange\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\MakingChange\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\MakingChange\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\MakingChange\res.txt" />
+    <Text Include="Codeforces\ACMAmman2015\G\input1.txt" />
+    <Text Include="Codeforces\ACMAmman2015\G\input2.txt" />
+    <Text Include="Codeforces\ACMAmman2015\G\input3.txt" />
+    <Text Include="Codeforces\ACMAmman2015\G\input4.txt" />
+    <Text Include="Codeforces\ACMAmman2015\G\output1.txt" />
+    <Text Include="Codeforces\ACMAmman2015\G\output2.txt" />
+    <Text Include="Codeforces\ACMAmman2015\G\output3.txt" />
+    <Text Include="Codeforces\ACMAmman2015\G\output4.txt" />
+    <Text Include="Codeforces\ACMAmman2015\G\res.txt" />
+    <Text Include="Codeforces\ACMAmman2015\F\input1.txt" />
+    <Text Include="Codeforces\ACMAmman2015\F\input2.txt" />
+    <Text Include="Codeforces\ACMAmman2015\F\input3.txt" />
+    <Text Include="Codeforces\ACMAmman2015\F\input4.txt" />
+    <Text Include="Codeforces\ACMAmman2015\F\output1.txt" />
+    <Text Include="Codeforces\ACMAmman2015\F\output2.txt" />
+    <Text Include="Codeforces\ACMAmman2015\F\output3.txt" />
+    <Text Include="Codeforces\ACMAmman2015\F\output4.txt" />
+    <Text Include="Codeforces\ACMAmman2015\F\res.txt" />
+    <Text Include="Codeforces\ACMAmman2015\D\input1.txt" />
+    <Text Include="Codeforces\ACMAmman2015\D\input2.txt" />
+    <Text Include="Codeforces\ACMAmman2015\D\input3.txt" />
+    <Text Include="Codeforces\ACMAmman2015\D\input4.txt" />
+    <Text Include="Codeforces\ACMAmman2015\D\output1.txt" />
+    <Text Include="Codeforces\ACMAmman2015\D\output2.txt" />
+    <Text Include="Codeforces\ACMAmman2015\D\output3.txt" />
+    <Text Include="Codeforces\ACMAmman2015\D\output4.txt" />
+    <Text Include="Codeforces\ACMAmman2015\D\res.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\PayThePrice\input1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\PayThePrice\input2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\PayThePrice\input3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\PayThePrice\input4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\PayThePrice\output1.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\PayThePrice\output2.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\PayThePrice\output3.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\PayThePrice\output4.txt" />
+    <Text Include="ProblemSolvingParadigms\DP\CoinChange\PayThePrice\res.txt" />
+    <Text Include="PractComp\TaxCalculator\input1.txt" />
+    <Text Include="PractComp\TaxCalculator\input2.txt" />
+    <Text Include="PractComp\TaxCalculator\input3.txt" />
+    <Text Include="PractComp\TaxCalculator\input4.txt" />
+    <Text Include="PractComp\TaxCalculator\output1.txt" />
+    <Text Include="PractComp\TaxCalculator\output2.txt" />
+    <Text Include="PractComp\TaxCalculator\output3.txt" />
+    <Text Include="PractComp\TaxCalculator\output4.txt" />
+    <Text Include="PractComp\TaxCalculator\res.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\input1.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\input2.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\input3.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\input4.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\output1.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\output2.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\output3.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\output4.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\res.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\B\input1.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\B\input2.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\B\input3.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\B\input4.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\B\output1.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\B\output2.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\B\output3.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\B\output4.txt" />
+    <Text Include="Codeforces\NorthwestEuroRegional2006\F\B\res.txt" />
+    <Text Include="ACMRegionals\Southeast2011\Hexagrams\input1.txt" />
+    <Text Include="ACMRegionals\Southeast2011\Hexagrams\input2.txt" />
+    <Text Include="ACMRegionals\Southeast2011\Hexagrams\input3.txt" />
+    <Text Include="ACMRegionals\Southeast2011\Hexagrams\input4.txt" />
+    <Text Include="ACMRegionals\Southeast2011\Hexagrams\output1.txt" />
+    <Text Include="ACMRegionals\Southeast2011\Hexagrams\output2.txt" />
+    <Text Include="ACMRegionals\Southeast2011\Hexagrams\output3.txt" />
+    <Text Include="ACMRegionals\Southeast2011\Hexagrams\output4.txt" />
+    <Text Include="ACMRegionals\Southeast2011\Hexagrams\res.txt" />
+  </ItemGroup>
+</Project>
